@@ -13,7 +13,10 @@ Dovile is an employee at [Teamhood](https://teamhood.com) (a project management 
 The following is a more detailed description, again by [Dovile](https://teamhood.com/project-management/project-vision-statement-make-sure-it-works/):
 
 > Comprised out of only few sentences, it communicates the general feeling more than anything else. The vision statement is not supposed to give directions on how the team should act in any situation, but instead relays the core values and the end goal. Based on this information the team or individual team members can make decisions that best serve the project. A vision statement is the main tool to give knowledge on where the project should be going and thus should not be underestimated. It helps your team members make the right decisions. It motivates to complete tasks that are necessary for the end goal. And it inspires new action or solutions to achieve the desired result. Writing a project vision statement that contains all this is not easy and should be taken seriously.
-
+---
+## Vision
+#### Our vision is to find the pattern of how location, price, property type, number of bathrooms and bedrooms, amenities and duration of the rentals affect the rating from the users. This will be helpful for the hosts to set up a price in order to provide a better living experience for the renters. In 2 weeks, we will be able to collect and compare the dataset. In 5 weeks, we will be able to analysis the data. And before final, we are going to give out a conclusion. We wish to become data analysis company which help big companies to find out what will make huge profit for them.
+---
 Dovile's article offers a few suggestions to consider when writing your project vision statement:
 
 > 1. **Make it concise and easy to understand**. It is best when your project vision statement is not only easy to understand, but also easy to remem8ber. The shorter and clearer you make it, the less grey area there is for your team members to interpret in their own way. Also, if they can easily remember it, they are more likely to follow it.
@@ -30,4 +33,4 @@ Dovile's article offers a few suggestions to consider when writing your project 
 
 ## Contracted Grade
 
-For this project, we agree to contract for a { A+/A/B/C }.
+For this project, we agree to contract for a A.
