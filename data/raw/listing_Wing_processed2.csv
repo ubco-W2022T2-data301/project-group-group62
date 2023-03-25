@@ -1,0 +1,961 @@
+amenities,quantity
+"""air conditioning""",4414
+"""long term stays allowed""",4042
+"""essentials""",3113
+"""hangers""",2939
+"""kitchen""",2863
+"""hair dryer""",2822
+"""elevator""",2604
+"""tv""",2598
+"""shampoo""",2570
+"""iron""",2546
+"""wifi""",2441
+"""wifi""]",2413
+"""washer""",2388
+"""hot water""",2101
+"""smoke alarm""",1954
+"""fire extinguisher""",1500
+"""refrigerator""",1432
+"""bed linens""",1352
+"""dishes and silverware""",1283
+"""lock on bedroom door""",1244
+"""cooking basics""",1155
+"""microwave""",1134
+"""private entrance""",1066
+"""first aid kit""",995
+"""dedicated workspace""",968
+"""dryer""",874
+"""luggage dropoff allowed""",845
+"[""long term stays allowed""",822
+"""self check-in""",794
+"""carbon monoxide alarm""",758
+"""extra pillows and blankets""",707
+"[""kitchen""",679
+"""hot water kettle""",601
+"""heating""",583
+"""shower gel""",570
+"""stove""]",509
+"[""self check-in""",508
+"""room-darkening shades""",491
+"""dining table""",476
+"""cleaning products""",462
+"""fire extinguisher""]",457
+"""freezer""",414
+"""keypad""",401
+"[""hot water""",399
+"""security cameras on property""",389
+"""oven""",389
+"""coffee maker""",380
+"""smart lock""",354
+"""heating""]",349
+"""drying rack for clothing""",340
+"""paid parking off premises""",340
+"""pets allowed""",335
+"""ethernet connection""",330
+"""bathtub""",325
+"""wine glasses""",320
+"""body soap""",313
+"""host greets you""",311
+"""outdoor dining area""",302
+"""conditioner""",296
+"""gym""",290
+"""cleaning available during stay""",286
+"""lockbox""",286
+"[""lock on bedroom door""",280
+"""rice maker""",275
+"[""private entrance""",275
+"""toaster""",251
+"""free washer \u2013 in unit""",236
+"""laundromat nearby""",233
+"[""hangers""",230
+"""smoking allowed""",228
+"""outdoor furniture""",226
+"""bbq grill""",220
+"""tv with standard cable""",217
+"""ac - split type ductless system""",214
+"""free parking on premises""",213
+"""single level home""",208
+"""patio or balcony""",206
+"""pool""",206
+"""window ac unit""",203
+"""private patio or balcony""",199
+"""building staff""",184
+"[""paid parking on premises""",180
+"[""pets allowed""",177
+"""exercise equipment""",168
+"""tv with standard cable""]",167
+"""crib""",163
+"""city skyline view""",160
+"""portable fans""",160
+"""books and reading material""",158
+"""window guards""",155
+"""mini fridge""",148
+"""coffee""",144
+"""free dryer \u2013 in unit""",142
+"""smoking allowed""]",139
+"""private living room""",139
+"""clothing storage: closet""",138
+"""mountain view""",137
+"""high chair""",135
+"""free street parking""",130
+"[""refrigerator""",128
+"""host greets you""]",128
+"[""fire extinguisher""",128
+"""hot tub""",123
+"""safe""",123
+"""cooking basics""]",122
+"""children\u2019s dinnerware""",118
+"[""children\u2019s books and toys""",115
+"[""air conditioning""",115
+"[""first aid kit""",114
+"""blender""",114
+"""stove""",106
+"""clothing storage""",106
+"""barbecue utensils""",104
+"""sea view""",103
+"[""clothing storage""",103
+"""harbor view""",102
+"""bed linens""]",99
+"[""breakfast""",97
+"""portable heater""",95
+"""waterfront""",95
+"""long term stays allowed""]",94
+"""bay view""",94
+"""shower gel""]",87
+"""garden view""",85
+"""pack \u2019n play/travel crib""",84
+"""baby bath""",82
+"[""smoke alarm""",82
+"""baking sheet""",82
+"""board games""",80
+"""ocean view""",79
+"""game console""",77
+"""dishwasher""",76
+"[""building staff""",75
+"""clothing storage: wardrobe""",74
+"""babysitter recommendations""",70
+"""beach access \u2013 beachfront""",68
+"""public or shared beach access""",66
+"""coffee maker: nespresso""",64
+"""pocket wifi""",64
+"standard cable""",60
+"""central air conditioning""",60
+"""backyard""",59
+"""electric stove""",58
+"""extra pillows and blankets""]",57
+"""sound system""",56
+"""ceiling fan""",55
+"""beach access""",55
+"""beach view""",53
+"""outlet covers""",52
+"""air conditioning""]",50
+"""shared pool""",49
+"[""indoor fireplace""",49
+"""piano""",49
+"""washer \u2013\u00a0in unit""",48
+"""courtyard view""",47
+"""bbq grill""]",46
+"""gas stove""",45
+"""mosquito net""",44
+"""shared patio or balcony""",43
+"[""induction stove""",43
+"""table corner guards""",42
+"[""backyard""",42
+"""bluetooth sound system""",41
+"""breakfast""",41
+"""private backyard \u2013 fully fenced""",40
+"""park view""",40
+"""shared gym in building""",37
+"""outdoor shower""",37
+"""ev charger""",35
+"netflix""",35
+"""hangers""]",35
+"""bread maker""",35
+"""kitchen""]",34
+"[""patio or balcony""",34
+"""free dryer \u2013 in building""",34
+"""fire pit""",33
+"[""long term stays allowed""]",32
+"""private hot tub""]",31
+"""bidet""",31
+"""stainless steel oven""",31
+"[""free washer \u2013 in unit""",30
+"[""cleaning products""",30
+"""hammock""",30
+"""dryer \u2013\u00a0in unit""",30
+netflix,28
+"""pool view""",28
+"""free washer \u2013 in building""]",28
+"""sound system with bluetooth and aux""",27
+"[""carbon monoxide alarm""",26
+"""beach essentials""",26
+"""40\"" hdtv with netflix",26
+"""private hot tub""",26
+"""marina view""",26
+"""paid parking lot off premises""",26
+"[""outdoor shower""",26
+"""city skyline view""]",26
+"[""hot tub""",25
+"""changing table""",25
+"[""ceiling fan""",24
+"[""mini fridge""",24
+"""paid street parking off premises""",24
+"""resort access""",24
+"""paid parking garage off premises""",24
+"""baby safety gates""",24
+"""trash compactor""",23
+"""heating - split type ductless system""",23
+"""pool table""",23
+"yoga mat""",22
+"""bbq grill: charcoal""",22
+"""exercise equipment: yoga mat""",21
+"""baking sheet""]",21
+"""clothing storage: closet""]",21
+"""paid washer \u2013 in building""",20
+"""clothing storage: closet and dresser""",20
+"""indoor fireplace""",20
+"""private gym in building""",20
+"""valley view""",20
+"""coffee maker: espresso machine""",20
+"""paid dryer \u2013 in building""",19
+"[""garden view""",19
+"[""security cameras on property""",19
+"""public or shared beach access \u2013 beachfront""",18
+"""hdtv with netflix""",18
+disney+,17
+"[""essentials""",17
+"""dedicated workspace""]",17
+"""shared hot tub""",16
+"""induction stove""",16
+"""bikes""",16
+"""radiant heating""",16
+"""oven""]",16
+"""clothing storage: dresser""",15
+"[""free street parking""",15
+"""smoke alarm""]",15
+"""coffee maker: drip coffee maker""",15
+"[""washer""",15
+"[""hot water kettle""",15
+"""21\"" hdtv with standard cable""]",14
+"[""smoking allowed""",14
+"""sun loungers""",14
+"[""host greets you""",14
+"""hdtv""",14
+"""drying rack for clothing""]",14
+"""central heating""",14
+"""paid parking on premises""",13
+"""shared sauna""",13
+"""lake access""",13
+"""free washer \u2013 in building""",12
+"""stainless steel gas stove""",12
+"""portable air conditioning""",12
+"""exercise equipment: free weights",12
+"""clothing storage: closet and wardrobe""",12
+"""private outdoor kitchen""",12
+open specific hours,12
+"""ocean view""]",12
+"""ping pong table""",12
+apple tv,11
+"""clothing storage: walk-in closet""",11
+"""kayak""",11
+"""baby monitor""",11
+"""stainless steel electric stove""",11
+"""hdtv with netflix",11
+"""clothing storage: wardrobe and closet""",11
+"[""dove shampoo""",10
+"""dove body soap""",10
+"[""tv""",10
+"""clothing storage: dresser and closet""",10
+wardrobe,10
+"""record player""",10
+"premium cable""",9
+"""shared backyard \u2013 fully fenced""",9
+"[""resort view""",9
+"""panasonic refrigerator""",9
+"""crib - always at the listing""",9
+"""outdoor kitchen""",9
+standard cable,9
+"[""electric stove""",9
+"""shared gym nearby""",9
+"""free dryer""",9
+"""game console: ps4""",9
+"""hdtv with standard cable""",8
+"[""elevator""",8
+"""coffee maker: french press""]",8
+"""iron""]",8
+"""samsung refrigerator""",8
+"and dresser""",8
+"pour-over coffee""",8
+"""washer \u2013\u00a0in building""]",8
+"[""wifi""",8
+"""bbq grill: gas""",8
+hbo max,7
+"""keypad""]",7
+"""free resort access""",7
+"[""exercise equipment: free weights",7
+"""shared outdoor pool - available seasonally",7
+"""shared backyard""",7
+"""beach access""]",7
+"""ski-in/ski-out""",7
+"""exercise equipment: free weights""",7
+"""exercise equipment""]",7
+"""panasonic  refrigerator""",7
+"""32\"" hdtv""",6
+"dvd player""",6
+"""dove conditioner""",6
+"open specific hours""",6
+"and closet""",6
+"""kenwood induction stove""",6
+"""children\u2019s books and toys for ages 0-2 years old""",6
+"""paid crib - available upon request""",6
+"chromecast""",6
+"""children\u2019s books and toys for ages 0-2 years old and 2-5 years old""",6
+chromecast,6
+"""free washer""",6
+"""crib - available upon request""",6
+"""clothing storage: closet",6
+"""dryer \u2013 in building""",6
+heated,6
+"""coffee maker: pour-over coffee""",6
+"""clothing storage: dresser",6
+"""paid parking lot on premises""",6
+"""stainless steel oven""]",6
+"""coffee maker: drip coffee maker",6
+"""sauna""",6
+"""boat slip""",6
+"[""pool table""",6
+"""game console: nintendo switch""",6
+"""50\"" hdtv with netflix""",5
+"""private pool""",5
+"[""hair dryer""",5
+"""children\u2019s books and toys for ages 0-2 years old",5
+2-5 years old,5
+"and 5-10 years old""",5
+"open 24 hours""",5
+"""coffee maker: nespresso",5
+"""clothing storage: dresser and closet""]",5
+"""free washer""]",5
+"nespresso""",5
+"""shared indoor pool - available all year",5
+"lap pool""",5
+"""tv with netflix""",5
+"""shared backyard \u2013 not fully fenced""",5
+"""clothing storage: wardrobe""]",5
+"[""shared pool""",5
+"""hot tub""]",4
+"""clothing storage: walk-in closet and closet""",4
+"""river view""",4
+"""free parking on premises""]",4
+"""hdtv with chromecast""",4
+"""standalone high chair - always at the listing""",4
+"[""clothing storage: dresser and wardrobe""",4
+"[""private pool""",4
+"""pack \u2019n play/travel crib - available upon request""",4
+amazon prime video,4
+"netflix""]",4
+"""55\"" hdtv""",4
+closet,4
+"[""shampoo""",4
+"""hdtv with standard cable""]",4
+"""paid washer \u2013 in unit""",4
+"""stainless steel induction stove""",4
+"""hdtv with amazon prime video",4
+"""private backyard \u2013 not fully fenced""",4
+"""shared outdoor pool - available all year",4
+"""bose sound system with bluetooth and aux""",4
+"""hitachi refrigerator""",4
+"[""private backyard \u2013 not fully fenced""",4
+"""42\"" hdtv with standard cable""",4
+premium cable,4
+"""paid dryer \u2013 in unit""",4
+"""paid parking garage on premises""",4
+"""children\u2019s books and toys for ages 2-5 years old and 5-10 years old""",4
+"""children\u2019s books and toys for ages 5-10 years old""",4
+"""coffee maker: espresso machine",4
+"""children\u2019s books and toys for ages 5-10 years old and 10+ years old""",4
+"""lg refrigerator""",3
+"""tv with amazon prime video",3
+"""43\"" hdtv""",3
+"""aesop body soap""",3
+"""clothing storage: wardrobe",3
+walk-in closet,3
+"""pack \u2019n play/travel crib - always at the listing""",3
+"""clothing storage: closet and walk-in closet""",3
+"""essentials""]",3
+"""sound system with aux""",3
+"""42\"" hdtv with netflix",3
+"""private hot tub - available all year",3
+"""55\"" hdtv with standard cable",3
+"""dining table""]",3
+"""private backyard""",3
+"apple tv""",3
+"disney+""",3
+"""tefal stainless steel oven""",3
+"""42\"" hdtv""",3
+"""shared sauna""]",3
+"""shared backyard \u2013 not fully fenced""]",3
+"""high chair""]",3
+"""coffee maker: french press",3
+"""lake view""",3
+"""shared gym""",3
+"""conditioner""]",3
+"french press""",3
+"[""paid resort access""",3
+"""hdtv with standard cable",3
+"""children\u2019s books and toys for ages 2-5 years old""",3
+"""stainless steel stove""]",3
+"""aesop conditioner""",3
+"""aesop shampoo""]",3
+"""shared pool - available seasonally""",3
+"""outdoor dining area""]",3
+"""pool""]",3
+"[""park view""",3
+"espresso machine""",3
+"""private sauna""",3
+"[""radiant heating""",3
+"""game console: nintendo wii""",3
+"""\u897f\u9580\u5b50 refrigerator""",3
+"""40\"" tv""",2
+"""32\"" hdtv with amazon prime video",2
+"""32\"" hdtv with standard cable""",2
+"amazon prime video""",2
+"""by random body soap""",2
+"[""window ac unit""",2
+"""canal view""",2
+"""free parking garage on premises""",2
+"""50\"" hdtv with chromecast""",2
+"[""coffee""",2
+"""55\"" hdtv with netflix",2
+"""32\"" hdtv with netflix""",2
+"""fortress refrigerator""",2
+"""coffee maker: keurig coffee machine""",2
+"[""50\"" hdtv with apple tv",2
+"""40\"" hdtv with apple tv",2
+"""50\"" hdtv with disney+",2
+"""55\"" hdtv with netflix""",2
+"""fireplace guards""",2
+"[""hdtv with standard cable",2
+"[""fire pit""",2
+"""lux body soap""",2
+"""indoor fireplace: electric""",2
+"""private outdoor pool - available all year",2
+"""other induction stove""",2
+lap pool,2
+"pool cover""",2
+"""42\"" hdtv with netflix""",2
+"""32\"" tv""",2
+"[""lake access""",2
+"""50\"" hdtv with netflix",2
+"[""32\"" hdtv""",2
+"""22\"" hdtv""",2
+"""50\"" tv""",2
+"[""free parking on premises""",2
+"""private gym nearby""",2
+"[""stainless steel electric stove""",2
+"""52\"" hdtv with netflix",2
+"""32\"" hdtv with chromecast",2
+"""wifi \u2013 40 mbps""",2
+"[""32\"" hdtv with chromecast",2
+"""wifi \u2013 43 mbps""",2
+"""german pool induction stove""",2
+"""40\"" hdtv""",2
+"""coffee maker: french press""",2
+"""coffee maker: keurig coffee machine",2
+stationary bike,2
+"[""sea view""",2
+"""clothing storage: wardrobe and walk-in closet""",2
+"""wifi \u2013 23 mbps""",2
+"""wifi \u2013 32 mbps""]",2
+"infinity""",2
+"""gym in building""",2
+"rooftop""",2
+"""siemens stainless steel induction stove""",2
+"""50\"" hdtv with chromecast",2
+"""dove shampoo""",2
+"""wifi \u2013 13 mbps""",2
+"""siemens refrigerator""",2
+"""65\"" hdtv with disney+",2
+"""sonos bluetooth sound system""",2
+"[""central heating""",2
+"""miele induction stove""",2
+"""marshall bluetooth sound system""",2
+"""paid resort access""",2
+"""mitsubishi refrigerator""]",2
+"""natural shampoo""",2
+"and wardrobe""",2
+"""game console: nintendo switch and ps4""",2
+"""mini oven oven""",2
+"heated""",2
+"""\u897f\u9580\u5b50 oven""",2
+"""free residential garage on premises""",2
+"""fast wifi \u2013 399 mbps""",2
+"""32\"" hdtv with apple tv",2
+"""private hot tub - available all year""",2
+"""55\"" hdtv with standard cable""]",2
+"[""outdoor furniture""",2
+infinity,2
+"""exercise equipment: stationary bike""",2
+"""fast wifi \u2013 57 mbps""",2
+"""fast wifi \u2013 79 mbps""",1
+"""fast wifi \u2013 76 mbps""",1
+"""65\"" hdtv with hbo max",1
+hulu,1
+"""hdtv with apple tv",1
+"""fast wifi \u2013 413 mbps""",1
+"""rejoice shampoo""",1
+"""bbq grill: charcoal",1
+"gas""",1
+"[""hdtv with premium cable""",1
+"""38\"" hdtv with amazon prime video",1
+"""jbl sound system""",1
+"""drugstore brand conditioner""",1
+"""panasonic stove""",1
+"""meadi oven""",1
+"""york conditioner""]",1
+"""19\"" tv with standard cable""",1
+"""depends body soap""",1
+"""wifi \u2013 37 mbps""",1
+"""kef sound system with bluetooth and aux""",1
+"""65\"" hdtv with chromecast",1
+"""other electric stove""",1
+"[""beach essentials""",1
+"""50\"" tv with chromecast""",1
+"""sonos sound system""",1
+"""tv with apple tv""",1
+"""hermes body soap""",1
+"""harman / kardon bluetooth sound system""]",1
+"""46\"" hdtv with standard cable""",1
+"""52\"" hdtv with apple tv""",1
+"""fast wifi \u2013 193 mbps""",1
+"""i have a small oven to cook basics. it is not big enough to roast a chicken! oven""]",1
+"""lp  gas gas stove""",1
+"""russel  hobb oven""",1
+"""pret conditioner""",1
+"""pret shampoo""",1
+"""50\"" hdtv with premium cable",1
+"""21\"" tv""]",1
+"""32\"" tv with chromecast""",1
+"""booster seat high chair - available upon request""",1
+"""children\u2019s books and toys for ages 0-2 years old and 2-5 years old""]",1
+"""dettol handwash and lux  body soap""]",1
+"""45\"" tv with netflix",1
+"""fast wifi \u2013 69 mbps""",1
+"""hdtv with chromecast",1
+"""wifi \u2013 17 mbps""",1
+"""tv with netflix",1
+"""kenwood electric stove""",1
+"""4 gas stainless steel stove""",1
+"""gas oven and 4 hobs stainless steel oven""",1
+"""samsung  sound system with bluetooth and aux""",1
+"""fast wifi \u2013 95 mbps""",1
+"""lg bluetooth sound system""",1
+"""electrolux stainless steel induction stove""",1
+"""furrion bluetooth sound system""",1
+"""j&j body soap""",1
+"""free dryer""]",1
+"""fast wifi \u2013 183 mbps""",1
+"""rosieres  stainless steel oven""",1
+"""clothing storage: walk-in closet",1
+"[""bathtub""",1
+"""22\"" tv""",1
+"""46\"" hdtv with premium cable",1
+"""wifi \u2013 35 mbps""",1
+"""43\"" hdtv with hulu""",1
+"""24\"" hdtv with standard cable""]",1
+"""24\"" hdtv with standard cable""",1
+"""marshall sound system""",1
+"""stainless steel stove""",1
+"""conditioner conditioner""",1
+"""fast wifi \u2013 228 mbps""",1
+"[""gym""",1
+"""harmon kardon bluetooth sound system""",1
+"""b&o sound system with bluetooth and aux""",1
+"""40\"" hdtv with apple tv""",1
+"""wifi \u2013 21 mbps""",1
+"""aeg induction stove""",1
+"""55\"" tv with standard cable""",1
+"""hdtv with disney+",1
+"""panasonic refrigerator""]",1
+"""36\"" tv with disney+",1
+"""gym nearby""",1
+"""wifi \u2013 9 mbps""",1
+"""game console""]",1
+"[""tv with netflix""",1
+"""other stainless steel gas stove""",1
+roku,1
+"""sakura gas stove""",1
+"""56\"" hdtv""",1
+"""doterra  body soap""",1
+"""tv with dvd player""",1
+"""doterra  conditioner""",1
+"""45\"" hdtv with apple tv",1
+"""candy stainless steel oven""]",1
+"""panasonic  induction stove""]",1
+"[""outlet covers""",1
+"[""43\"" hdtv with chromecast",1
+"""fast wifi \u2013 91 mbps""",1
+"""towngas gas stove""",1
+"""davines body soap""",1
+"""town gas oven""",1
+"""davines shampoo""",1
+[],1
+"""washer \u2013\u00a0in building""",1
+"""private pool - available all year",1
+"""43\"" hdtv with netflix",1
+"""aeg stainless steel induction stove""",1
+"""room-darkening shades""]",1
+"""55\"" hdtv with standard cable""",1
+"""shared outdoor pool - heated""]",1
+"""tv with fire tv",1
+"[""iron""",1
+"""\u9ad8\u8eab refrigerator""",1
+"[""dishwasher""",1
+"""microwave""]",1
+"""onkio hifi  sound system with aux""",1
+"""soap and body wash  body soap""",1
+"""dove or similar  body soap""",1
+"""white westinhouse refrigerator""",1
+"""a brand new shampoo and conditioner will  be provided for stay with 30 days and  more. shampoo""]",1
+"""dole body soap""",1
+"""32\"" hdtv with chromecast""",1
+"""29\"" tv""",1
+"""\u5176\u4ed6 electric stove""",1
+"""55\"" tv with disney+",1
+"""pansonic refrigerator""",1
+"""le petit marseillais body soap""",1
+"""50\"" hdtv with standard cable",1
+"""german  pool induction stove""",1
+"""smart lock""]",1
+"""shared gym in building""]",1
+"[""paid parking off premises""",1
+"""cambridge bluetooth sound system""",1
+"""exercise equipment: stationary bike",1
+"[""free driveway parking on premises""",1
+"""private beach access \u2013 beachfront""",1
+"""panasonic induction stove""",1
+"""electrolux oven""",1
+"""44\"" hdtv with amazon prime video",1
+"""portable heater""]",1
+"""31\"" hdtv with standard cable""",1
+"[""single  induction stove""",1
+"""table top oven""",1
+"""5.1 surround sound bluetooth sound system""",1
+"""tv with apple tv",1
+"[""concierge""",1
+"""bed sheets and pillows""",1
+"""laundry services""",1
+"""breakfast buffet available \u2014 $295 per person per day""",1
+"""bottled water""",1
+"""42\"" hdtv with apple tv",1
+"""complimentary self parking""",1
+"""minibar""",1
+"""bathrobes""",1
+"""nespresso machine""",1
+"""room service""",1
+"""bluetooth speaker""",1
+"""heated pool with poolside bar \u2014 outdoor""",1
+"""fitness center""",1
+"""limited housekeeping \u2014 weekly""",1
+"""complimentary valet parking""",1
+"""toiletries""",1
+"""onsite restaurant \u2014 above & beyond""",1
+"""slippers""",1
+"""free wifi""]",1
+"""the best body soap""",1
+"""kenwood stainless steel oven""",1
+"""the best shampoo""",1
+"""43\"" tv with netflix""",1
+"""the best conditioner""",1
+"""sansung refrigerator""",1
+"""hot water""]",1
+"""ritual body soap""",1
+"""ritual conditioner""",1
+"""toshiba stainless steel oven""",1
+"""49\"" hdtv with disney+",1
+"""65\"" tv""",1
+"""exercise equipment: elliptical""",1
+"""smeg stainless steel oven""",1
+"""smeg - 5 burner stainless steel gas stove""",1
+"""fast wifi \u2013 227 mbps""",1
+"""simpa stainless steel gas stove""",1
+"""42\"" hdtv with hbo max",1
+"""pacific stove""",1
+"""philco refrigerator""",1
+"[""tv with apple tv",1
+"[""49\"" tv""",1
+"""bed  head tigi shampoo""",1
+"""phill smith be gourgeous conditioner""",1
+"""elemis  body soap""",1
+"""lg refrigerator""]",1
+treadmill,1
+"""local brand conditioner""",1
+"""wifi \u2013 14 mbps""",1
+"""50\"" tv with disney+",1
+"""clothing storage: dresser and walk-in closet""",1
+"""random brand body soap""",1
+"""random conditioner""",1
+"""ramdom shampoo""",1
+"""b&o  bluetooth sound system""",1
+"""le labo body soap""",1
+"""le labo conditioner""",1
+"""simeo refrigerator""",1
+"[""exercise equipment: stationary bike",1
+"""aesop  body soap""",1
+"""paid pack \u2019n play/travel crib - available upon request""",1
+"""miele oven""",1
+"""game console: xbox 360""",1
+"""65\"" hdtv with amazon prime video",1
+"""paid parking lot on premises""]",1
+"""folding or convertible high chair""",1
+"""game console: nintendo switch",1
+nintendo wii,1
+nintendo wii u,1
+ps5,1
+"and xbox series x""]",1
+"""avene body soap""",1
+"[""private backyard \u2013 fully fenced""",1
+"""56\"" hdtv with amazon prime video""",1
+"""small but works really well! we do bigger cooks on our gas weber. stainless steel oven""]",1
+"[""hdtv with netflix",1
+"hulu""",1
+"""140\"" hdtv""",1
+"""game console: xbox series x""",1
+"""100\"" tv with chromecast""",1
+"""hdtv with premium cable""",1
+"[""32\"" hdtv with disney+",1
+"[""sonos and bluetooth speakers bluetooth sound system""",1
+"""50\"" hdtv with amazon prime video",1
+"""75\"" hdtv""]",1
+"[""very small refrigerator""",1
+"""lg sound system""",1
+"""hair dryer""]",1
+"[""marshall acton ii sound system with bluetooth and aux""",1
+"""morocco oil conditioner""",1
+"""aesop",1
+"balmain body soap""",1
+"""siemens stainless steel oven""",1
+"""sonos  sound system""",1
+"""game console: nintendo switch and ps5""",1
+"""75\"" hdtv with amazon prime video",1
+"[""nonau conditioner""",1
+"""b&o sound system with aux""",1
+"""nonau shampoo""",1
+"""mile refrigerator""",1
+"""mile stainless steel oven""",1
+"""shared pool - available all year",1
+"""60\"" hdtv""",1
+"""fast wifi \u2013 317 mbps""",1
+"""other gas stove""",1
+"""fast wifi \u2013 230 mbps""",1
+"""game console: nintendo switch and xbox one""",1
+"""2 burner stainless steel gas stove""",1
+"""fast wifi \u2013 211 mbps""",1
+"""free carport on premises \u2013 1 space""",1
+espresso machine,1
+"""aesop/dove conditioner""",1
+"""55\"" hdtv with apple tv",1
+"""exercise equipment: elliptical",1
+free weights,1
+"""aesop/dove body soap""",1
+"""free residential garage on premises \u2013 1 space""",1
+"""german pool stainless steel oven""]",1
+"""54\"" tv""",1
+"""samsung stainless steel oven""",1
+"""hdtv with premium cable",1
+"""\u5171\u7528\u5927\u96ea\u6ac3 refrigerator""",1
+"""phillips bluetooth sound bar and apple pod mini bluetooth sound system""",1
+"""fridge refrigerator""]",1
+"""toshiba - oven + microwave in one oven""",1
+"""shared outdoor pool""",1
+"""miele refrigerator""",1
+"""klippsch bluetooth sound system""]",1
+"[""coffee maker: drip coffee maker""",1
+"""bose  bluetooth sound system""",1
+"""clothing storage: walk-in closet and dresser""",1
+"""bluetooth bluetooth sound system""",1
+"""45\"" hdtv with netflix",1
+"""wifi \u2013 32 mbps""",1
+"""fast wifi \u2013 68 mbps""",1
+"""43\"" hdtv with amazon prime video",1
+"nespresso""]",1
+"""electriq stainless steel induction stove""",1
+"""43\"" hdtv with disney+",1
+"""\u84b8\u70e4\u7117\u7210 stainless steel oven""",1
+"""ramdom brands shampoo""",1
+"""55\"" hdtv with chromecast",1
+"roku""",1
+"""private pool - available all year""",1
+"""45\"" hdtv""",1
+"""43\"" hdtv with chromecast",1
+"""fast wifi \u2013 108 mbps""",1
+"""bluetooth speaker sound system with bluetooth and aux""",1
+"""krk bluetooth sound system""",1
+"""hdtv with apple tv""",1
+"[""ping pong table""",1
+"olympic-sized""",1
+"""ikea induction stove""",1
+"""sony bluetooth sound system""",1
+"""aesop shampoo""",1
+"""two speakers jbl and boom bluetooth sound system""",1
+"""electrolux stainless steel gas stove""",1
+"""80\"" hdtv with amazon prime video",1
+"""public organic  shampoo""",1
+"""organic  conditioner""",1
+"""random bluetooth sound system""",1
+"""natural conditioner""",1
+"""italian brand stainless steel gas stove""",1
+"""italian brand  stainless steel oven""",1
+"""ikea induction hob stainless steel stove""",1
+"""head&shoulders shampoo""",1
+"""jbl bluetooth sound system""",1
+"""delonghi small oven stainless steel oven""",1
+"""organic soap body soap""",1
+"""47\"" hdtv with netflix""",1
+"[""dedicated workspace""",1
+"""wifi \u2013 20 mbps""",1
+"""fast wifi \u2013 75 mbps""",1
+"""celavi body soap""",1
+"""50\"" hdtv""",1
+"[""ac - split type ductless system""",1
+"""frederick mal conditioner""",1
+"""ms shampoo""",1
+"""ms body soap""",1
+"""electric stove  electric stove""",1
+"""standalone high chair""",1
+"""apple bluetooth sound system""",1
+"""whirlpool  stainless steel oven""",1
+"""46\"" hdtv with netflix""",1
+"""paid parking garage on premises \u2013 100 spaces""",1
+dresser,1
+"""samsung double side refrigerator""",1
+"""gaggenau  stainless steel stove""",1
+"""siemens oven""]",1
+"[""dove  shampoo""",1
+"""fast wifi \u2013 66 mbps""",1
+"""fast wifi \u2013 581 mbps""",1
+"""bidet""]",1
+"""game console: ps5""",1
+"""65\"" hdtv with netflix""",1
+"""40\"" hdtv with chromecast",1
+"""panasonic oven/microwave combi oven""",1
+"""sonos bluetooth sound system""]",1
+"""bluetooth sound system""]",1
+"""private outdoor pool - available seasonally",1
+"""n/a shampoo""",1
+"""n/a body soap""",1
+"""lock on bedroom door""]",1
+"""white-westinghluse refrigerator""",1
+"[""mountain view""",1
+"""shared outdoor pool - open specific hours",1
+"""\u5927\u724c\u5b50 refrigerator""",1
+"""lux shampoo""",1
+"""lux conditioner""",1
+"""\u5927\u724c\u5b50 stainless steel induction stove""",1
+"""46\"" tv with premium cable""",1
+"""wifi \u2013 24 mbps""",1
+"""hdtv with fire tv""",1
+"""56\"" hdtv with disney+",1
+"""game console: xbox series x""]",1
+"""samsung  refrigerator""",1
+"""fast wifi \u2013 603 mbps""",1
+"""50\"" hdtv with apple tv",1
+"""shared outdoor pool - available all year""",1
+"""tokyo milk conditioner""",1
+"""tokyo milk shampoo""",1
+"""43\"" tv with standard cable""",1
+"""resort view""",1
+"""fast wifi \u2013 217 mbps""",1
+"""whirpool stainless steel oven""",1
+"""devialet bluetooth sound system""",1
+"""fast wifi \u2013 147 mbps""",1
+"[""game console: nintendo switch""",1
+"""100\"" hdtv with disney+",1
+"""premium body soap""",1
+"""fast wifi \u2013 83 mbps""",1
+"""b&o bluetooth sound system""",1
+"""l\u2019occitane shampoo""",1
+"""l\u2019occitane conditioner""",1
+"""wifi \u2013 26 mbps""",1
+"""tresemme conditioner""",1
+"""tresemme shampoo""",1
+"""42\"" hdtv with disney+",1
+"""private indoor pool - available all year",1
+"""fast wifi \u2013 206 mbps""",1
+"[""beach view""",1
+"""43\"" hdtv with standard cable""",1
+"""free parking on premises \u2013 1 space""",1
+"[""hdtv with disney+""",1
+"""49\"" hdtv with netflix""",1
+"""40\"" hdtv with standard cable",1
+"""fast wifi \u2013 219 mbps""",1
+"""\u5176\u4ed6 induction stove""",1
+"[""bay view""",1
+"""children\u2019s books and toys for ages 0-2 years old and 5-10 years old""",1
+"[""hdtv with apple tv",1
+"[""43\"" hdtv with netflix",1
+"""fast wifi \u2013 316 mbps""",1
+"""fast wifi \u2013 116 mbps""",1
+"""dr bronner's pure-castile soap body soap""",1
+"""lockbox""]",1
+"""gym in building""]",1
+"""pool - available seasonally""",1
+"[""outdoor dining area""",1
+"""70\"" hdtv with amazon prime video",1
+"[""32\"" hdtv with chromecast""",1
+"pool toys""",1
+"""hot tub - open 24 hours""",1
+"""miele  refrigerator""",1
+"""forget refrigerator""",1
+"""by random shampoo""",1
+"""other stainless steel electric stove""",1
+"""forget stainless steel oven""",1
+"""by random conditioner""",1
+"""60\"" hdtv with disney+",1
+"[""43\"" hdtv with apple tv",1
+"""fast wifi \u2013 554 mbps""",1
+"""39\"" hdtv with netflix""",1
+"""miele stainless steel gas stove""",1
+"""body shop conditioner""",1
+"""body shop body soap""",1
+"""rasonic stainless steel oven""",1
+"""body shop shampoo""",1
+"""baumatic  induction stove""",1
+"[""exercise equipment""",1
+open 24 hours,1
+"""fast wifi \u2013 330 mbps""",1
+"[""room-darkening shades""",1
+"""65\"" hdtv""",1
+"[""50\"" tv""",1
+"""24\"" tv with standard cable",1
+"[""start up supply conditioner""",1
+"""meile electric stove""",1
+"""start up supply shampoo""",1
+"""65\"" hdtv with standard cable""",1
+"""melie refrigerator""",1
+"""miele stainless steel oven""",1
+"""fast wifi \u2013 55 mbps""",1
+"""paid parking lot on premises \u2013 1 space""]",1
+"[""paid washer \u2013 in unit""",1
+"""44\"" hdtv with premium cable""",1
+"""fast wifi \u2013 289 mbps""",1
+"""electrolux induction stove""",1
+"""sony sound system with bluetooth and aux""",1
+"""65\"" hdtv with apple tv",1
+"[""jbl  bluetooth sound system""",1
+"""misc shampoo""",1
+"""rinnai  stainless steel gas stove""",1
+"""fast wifi \u2013 494 mbps""]",1
+"[""bose sound system with bluetooth and aux""",1
+"""children\u2019s books and toys""",1
+"""49\"" hdtv with standard cable""",1
+"""fast wifi \u2013 579 mbps""",1
+"""whirlpool stainless steel oven""]",1
+"""49\"" hdtv with standard cable",1
+"""fast wifi \u2013 594 mbps""",1
+"""fast wifi \u2013 64 mbps""",1
+"""46\"" tv with standard cable""",1
+"""40\"" hdtv with standard cable""",1
+"""50\"" hdtv with dvd player""",1
+"""mannings  body soap""",1
+"""mannings conditioner""",1
+"""hitachi - 3 doors fridge refrigerator""",1
