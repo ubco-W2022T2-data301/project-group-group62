@@ -1,337 +1,3231 @@
-,Rt,Bt,bedrooms,price
-0,Entire home/apt,3 baths,3,2323
-1,Entire home/apt,2.5 baths,4,4677
-2,Entire home/apt,1 bath,2,2838
-3,Entire home/apt,1.5 baths,1,3046
-4,Entire home/apt,1.5 baths,1,3000
-5,Private room,1 bath,1,217591
-6,Private room,1 bath,1,372136
-7,Private room,1 private bath,1,274863
-8,Private room,1 private bath,1,227971
-9,Entire home/apt,1 bath,2,2850
-10,Entire home/apt,2 baths,3,2093
-11,Entire home/apt,2 baths,4,2100
-12,Entire home/apt,1.5 baths,2,2523
-13,Entire home/apt,6 baths,5,14030
-14,Entire home/apt,4 baths,4,3459
-15,Entire home/apt,2.5 baths,4,3000
-16,Private room,1 private bath,1,11164
-17,Private room,1 private bath,1,11164
-18,Private room,1 bath,1,3349
-19,Private room,1 bath,1,3349
-20,Private room,1 bath,1,3349
-21,Private room,1 bath,1,2529
-22,Private room,1 bath,1,3349
-23,Entire home/apt,2.5 baths,2,3700
-24,Entire home/apt,2 baths,2,3700
-25,Entire home/apt,3 baths,3,3700
-26,Private room,3 baths,4,2514
-27,Entire home/apt,2 baths,3,2114
-28,Private room,1 private bath,1,5019
-29,Entire home/apt,3.5 baths,4,5500
-30,Entire home/apt,2 baths,2,10000
-31,Private room,1 private bath,1,9999
-32,Private room,1 private bath,1,9999
-33,Entire home/apt,5 baths,5,2143
-34,Private room,1 private bath,1,9999
-35,Entire home/apt,1.5 baths,3,2029
-36,Private room,1 private bath,1,11164
-37,Private room,1 shared bath,1,2494
-38,Entire home/apt,2 baths,2,3190
-39,Entire home/apt,1 bath,2,2121
-40,Private room,1 shared bath,1,389570
-41,Private room,1 shared bath,1,389570
-42,Entire home/apt,1 bath,2,2500
-43,Entire home/apt,3 baths,2,5298
-44,Entire home/apt,2 baths,2,3700
-45,Entire home/apt,1 bath,1,3000
-46,Hotel room,1 private bath,1,2133
-47,Entire home/apt,1 bath,1,4334
-48,Entire home/apt,1 bath,1,3333
-49,Entire home/apt,1 bath,2,3900
-50,Entire home/apt,2.5 baths,4,8888
-51,Entire home/apt,1 bath,1,2271
-52,Private room,1 private bath,1,3897
-53,Entire home/apt,1 bath,2,2146
-54,Entire home/apt,1 bath,1,2057
-55,Private room,1 shared bath,1,2625
-56,Private room,1 shared bath,1,2500
-57,Entire home/apt,1 bath,1,2230
-58,Private room,1 private bath,1,57550
-59,Entire home/apt,1 bath,2,2902
-60,Entire home/apt,1 bath,2,2500
-61,Private room,1 shared bath,1,2200
-62,Private room,1 private bath,1,229931
-63,Entire home/apt,1 bath,2,2600
-64,Entire home/apt,2 baths,3,3452
-65,Entire home/apt,1 bath,2,3000
-66,Private room,2 shared baths,1,70151
-67,Entire home/apt,1 bath,1,2800
-68,Entire home/apt,3 baths,3,8171
-69,Entire home/apt,1 bath,3,2571
-70,Entire home/apt,1 bath,2,9441
-71,Entire home/apt,2 baths,3,4677
-72,Entire home/apt,2 baths,3,2372
-73,Entire home/apt,1 bath,2,22329
-74,Entire home/apt,2 baths,2,9388
-75,Entire home/apt,1.5 baths,2,4293
-76,Entire home/apt,2 baths,3,10768
-77,Private room,8 shared baths,2,2500
-78,Entire home/apt,1 bath,3,3000
-79,Entire home/apt,1 bath,1,5000
-80,Entire home/apt,4 baths,4,3317
-81,Entire home/apt,1 bath,1,2500
-82,Entire home/apt,1 bath,1,2300
-83,Entire home/apt,1 bath,1,2087
-84,Private room,1 private bath,1,214900
-85,Private room,1 bath,1,3175
-86,Private room,1 bath,1,5645
-87,Entire home/apt,1 bath,1,2200
-88,Entire home/apt,3 baths,3,4320
-89,Private room,1.5 baths,1,3729
-90,Entire home/apt,2.5 baths,4,2167
-91,Private room,1 private bath,1,11164
-92,Private room,1 shared bath,1,5695
-93,Entire home/apt,1 bath,2,2074
-94,Entire home/apt,1 bath,2,2331
-95,Entire home/apt,3 baths,3,3500
-96,Private room,2 shared baths,1,3240
-97,Private room,1 bath,1,2400
-98,Entire home/apt,1 bath,1,5000
-99,Entire home/apt,1 bath,1,5000
-100,Shared room,2 shared baths,1,5000
-101,Private room,1 bath,1,4800
-102,Entire home/apt,1 bath,1,5000
-103,Entire home/apt,1 bath,2,2414
-104,Shared room,1 shared bath,1,8000
-105,Private room,1 private bath,1,10000
-106,Private room,1 private bath,1,10000
-107,Private room,1 private bath,1,10000
-108,Shared room,1 shared bath,1,78153
-109,Entire home/apt,2 baths,3,4174
-110,Private room,1 private bath,1,12631
-111,Entire home/apt,2 baths,3,3575
-112,Entire home/apt,1 bath,1,2029
-113,Private room,1 private bath,1,3158
-114,Shared room,1 shared bath,1,8500
-115,Entire home/apt,3 baths,2,2231
-116,Entire home/apt,1 bath,2,4000
-117,Private room,1 private bath,1,12631
-118,Private room,1 shared bath,1,2220
-119,Private room,1 private bath,1,500520
-120,Private room,1 private bath,1,450480
-121,Entire home/apt,1 bath,2,2500
-122,Entire home/apt,1 bath,2,3000
-123,Private room,1 shared bath,1,4421
-124,Shared room,1 shared bath,1,2880
-125,Entire home/apt,2 baths,2,3307
-126,Entire home/apt,3 baths,4,3783
-127,Entire home/apt,1 bath,1,2500
-128,Private room,1 shared bath,3,12500
-129,Entire home/apt,2 baths,2,5000
-130,Entire home/apt,2.5 baths,3,6000
-131,Entire home/apt,1 bath,1,3000
-132,Entire home/apt,1 bath,1,3000
-133,Shared room,1 shared bath,1,2880
-134,Entire home/apt,1 bath,2,2543
-135,Private room,1 shared bath,1,2120
-136,Entire home/apt,1 bath,1,2737
-137,Entire home/apt,2 baths,2,2300
-138,Entire home/apt,2 baths,3,2086
-139,Entire home/apt,1 bath,1,3000
-140,Entire home/apt,1 bath,3,3086
-141,Private room,5 baths,5,4800
-142,Entire home/apt,1 bath,2,10768
-143,Entire home/apt,1 bath,3,10768
-144,Entire home/apt,4 baths,4,2125
-145,Entire home/apt,1 bath,1,4500
-146,Entire home/apt,1 bath,2,2286
-147,Entire home/apt,2 baths,3,2388
-148,Entire home/apt,3 baths,4,2786
-149,Entire home/apt,9 baths,8,5571
-150,Entire home/apt,1 bath,1,2143
-151,Entire home/apt,1 bath,3,5000
-152,Private room,1.5 baths,2,2999
-153,Entire home/apt,1 bath,2,2325
-154,Entire home/apt,1 bath,2,4488
-155,Entire home/apt,1 bath,3,3000
-156,Entire home/apt,1 bath,1,2896
-157,Private room,1 shared bath,1,10000
-158,Entire home/apt,Half-bath,1,3897
-159,Private room,10 baths,11,7815
-160,Entire home/apt,2 baths,3,2674
-161,Entire home/apt,6.5 baths,6,3500
-162,Entire home/apt,3 baths,4,3317
-163,Private room,2 shared baths,2,4000
-164,Entire home/apt,1 bath,1,2460
-165,Shared room,1 shared bath,1,13250
-166,Entire home/apt,1 bath,3,2857
-167,Entire home/apt,1 bath,2,4086
-168,Entire home/apt,1 bath,1,2057
-169,Entire home/apt,2 baths,4,4299
-170,Entire home/apt,1 bath,3,2735
-171,Private room,1 bath,1,2080
-172,Private room,1 private bath,1,2220
-173,Private room,1 private bath,1,2019
-174,Private room,1 shared bath,2,8521
-175,Private room,1 private bath,1,2094
-176,Entire home/apt,1.5 baths,2,5298
-177,Private room,1 bath,1,2300
-178,Entire home/apt,1 bath,1,2200
-179,Private room,1 private bath,1,6789
-180,Private room,1 private bath,1,6789
-181,Private room,1 shared bath,1,2250
-182,Private room,1.5 shared baths,1,5000
-183,Entire home/apt,1 bath,3,2360
-184,Entire home/apt,2.5 baths,2,5500
-185,Private room,8 baths,10,4999
-186,Entire home/apt,1.5 baths,2,2143
-187,Shared room,1.5 shared baths,1,2300
-188,Entire home/apt,1 bath,4,3250
-189,Entire home/apt,2 baths,3,2086
-190,Entire home/apt,3 baths,2,24429
-191,Entire home/apt,4 baths,4,2828
-192,Entire home/apt,1 bath,2,5898
-193,Entire home/apt,2 baths,3,2167
-194,Entire home/apt,2 baths,3,2057
-195,Entire home/apt,8 baths,6,32000
-196,Entire home/apt,1 bath,1,2500
-197,Entire home/apt,2 baths,3,2057
-198,Private room,1 private bath,1,5300
-199,Entire home/apt,1 bath,1,2295
-200,Entire home/apt,2 baths,2,2800
-201,Entire home/apt,4 baths,4,5704
-202,Shared room,1.5 shared baths,1,85200
-203,Entire home/apt,1 bath,2,2382
-204,Entire home/apt,2.5 baths,3,2264
-205,Entire home/apt,1 bath,1,3800
-206,Entire home/apt,1 bath,1,23000
-207,Entire home/apt,2 baths,3,2300
-208,Entire home/apt,1 bath,2,2010
-209,Entire home/apt,4 baths,5,12000
-210,Entire home/apt,2 baths,3,2642
-211,Private room,1 private bath,1,5200
-212,Private room,1 private bath,1,5200
-213,Private room,1 private bath,1,5200
-214,Private room,1 private bath,1,5200
-215,Private room,1 private bath,1,5200
-216,Entire home/apt,1 bath,2,2429
-217,Entire home/apt,1.5 baths,1,3077
-218,Entire home/apt,1.5 baths,1,5000
-219,Private room,1 shared bath,1,5000
-220,Entire home/apt,1 bath,1,2280
-221,Entire home/apt,2 baths,2,3099
-222,Entire home/apt,1 bath,2,2033
-223,Entire home/apt,2 baths,2,2167
-224,Private room,1 private bath,1,318333
-225,Private room,1 private bath,1,3226
-226,Entire home/apt,2 baths,2,2400
-227,Entire home/apt,2 baths,2,2800
-228,Entire home/apt,1 bath,2,2019
-229,Entire home/apt,2 baths,2,2500
-230,Entire home/apt,1 bath,2,2143
-231,Entire home/apt,1.5 baths,1,18714
-232,Entire home/apt,2 baths,3,4049
-233,Entire home/apt,2.5 baths,4,6457
-234,Entire home/apt,2.5 baths,4,5429
-235,Entire home/apt,1 bath,1,2286
-236,Shared room,1 shared bath,1,3755
-237,Entire home/apt,2 baths,4,4215
-238,Entire home/apt,1 bath,2,6143
-239,Entire home/apt,1 bath,1,3000
-240,Entire home/apt,1 bath,2,11000
-241,Entire home/apt,2 baths,3,3900
-242,Entire home/apt,1 bath,3,3600
-243,Entire home/apt,3.5 baths,3,15000
-244,Entire home/apt,4 baths,4,4235
-245,Entire home/apt,1 bath,2,2010
-246,Entire home/apt,2 baths,2,3570
-247,Entire home/apt,4 baths,3,4143
-248,Entire home/apt,1 bath,1,2393
-249,Private room,1 private bath,1,10000
-250,Entire home/apt,8 baths,6,32000
-251,Entire home/apt,1.5 baths,2,2050
-252,Entire home/apt,1 bath,1,2971
-253,Entire home/apt,3 baths,3,2800
-254,Entire home/apt,4 baths,4,2786
-255,Entire home/apt,3 baths,4,2900
-256,Entire home/apt,1 bath,1,3660
-257,Entire home/apt,1 bath,1,3660
-258,Entire home/apt,1 bath,2,2233
-259,Entire home/apt,3.5 baths,3,3150
-260,Entire home/apt,3 baths,3,40000
-261,Entire home/apt,5 baths,4,4850
-262,Entire home/apt,1.5 baths,1,7888
-263,Private room,3 baths,3,4900
-264,Private room,1.5 baths,1,2557
-265,Entire home/apt,1.5 baths,3,2943
-266,Entire home/apt,2 baths,3,2892
-267,Entire home/apt,2.5 baths,2,2840
-268,Entire home/apt,2 baths,2,2057
-269,Entire home/apt,1 bath,2,3446
-270,Entire home/apt,8 baths,6,32000
-271,Entire home/apt,3 baths,3,4500
-272,Entire home/apt,3 baths,4,5986
-273,Entire home/apt,1 bath,1,16000
-274,Entire home/apt,4.5 baths,3,2950
-275,Entire home/apt,3 baths,4,2480
-276,Entire home/apt,1.5 baths,1,3257
-277,Entire home/apt,1 bath,2,2500
-278,Entire home/apt,1 bath,1,2091
-279,Entire home/apt,3 baths,2,2900
-280,Entire home/apt,2 baths,3,2660
-281,Entire home/apt,2 baths,3,2357
-282,Entire home/apt,2 baths,4,4055
-283,Entire home/apt,2 baths,3,2346
-284,Entire home/apt,1 bath,2,2105
-285,Entire home/apt,3 baths,3,20000
-286,Entire home/apt,2.5 baths,3,11429
-287,Entire home/apt,3 baths,3,4286
-288,Entire home/apt,1 bath,2,2200
-289,Private room,1.5 baths,1,7000
-290,Entire home/apt,3 baths,5,2200
-291,Entire home/apt,3 baths,3,3000
-292,Private room,1 private bath,1,3000
-293,Entire home/apt,1.5 baths,1,2293
-294,Private room,1 private bath,1,2100
-295,Entire home/apt,1 bath,1,2500
-296,Entire home/apt,3 baths,4,4574
-297,Private room,Shared half-bath,1,320370
-298,Entire home/apt,2 baths,4,3593
-299,Entire home/apt,1 bath,1,2857
-300,Entire home/apt,2 baths,2,2400
-301,Entire home/apt,3 baths,2,5776
-302,Private room,1 private bath,1,2554
-303,Entire home/apt,3.5 baths,3,4429
-304,Entire home/apt,1 bath,2,2500
-305,Entire home/apt,2 baths,2,2003
-306,Entire home/apt,2 baths,2,2257
-307,Entire home/apt,1 bath,2,2061
-308,Private room,Private half-bath,1,2291
-309,Private room,Private half-bath,1,2455
-310,Private room,Private half-bath,1,2422
-311,Private room,Private half-bath,1,3763
-312,Private room,Private half-bath,1,2285
-313,Entire home/apt,2 baths,3,2200
-314,Entire home/apt,3 baths,3,3000
-315,Entire home/apt,1 bath,2,9800
-316,Entire home/apt,1 bath,1,3000
-317,Entire home/apt,1.5 baths,2,2200
-318,Entire home/apt,1 bath,2,2500
-319,Entire home/apt,1.5 baths,2,3143
-320,Entire home/apt,2 baths,1,5103
-321,Entire home/apt,3 baths,4,4857
-322,Private room,1.5 shared baths,1,3110
-323,Entire home/apt,1 bath,1,3888
-324,Entire home/apt,4 baths,4,9425
-325,Entire home/apt,1.5 baths,2,2500
-326,Entire home/apt,1 bath,1,3165
-327,Entire home/apt,1 bath,3,3309
-328,Entire home/apt,1.5 baths,1,5510
-329,Private room,1 private bath,2,4072
-330,Shared room,2 shared baths,1,5510
-331,Entire home/apt,1 bath,2,2800
-332,Entire home/apt,1.5 baths,1,2317
-333,Private room,2.5 baths,3,4510
-334,Hotel room,1 private bath,1,2398
-335,Entire home/apt,2 baths,3,7015
+room_type,bathrooms_text,bedrooms,price
+Entire home/apt,1 bath,2.0,930.0
+Private room,1 bath,1.0,351.0
+Entire home/apt,1 bath,1.0,709.0
+Shared room,8 shared baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,,1.0,180.0
+Entire home/apt,1 bath,1.0,702.0
+Private room,1 shared bath,1.0,180.0
+Private room,,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,,1.0,180.0
+Private room,1 shared bath,1.0,620.0
+Entire home/apt,1 bath,1.0,564.0
+Private room,1 bath,1.0,750.0
+Entire home/apt,1 bath,1.0,800.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,835.0
+Private room,1 private bath,1.0,800.0
+Private room,1 private bath,1.0,850.0
+Private room,1 private bath,1.0,950.0
+Private room,1 bath,1.0,217.0
+Private room,1 private bath,1.0,297.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,650.0
+Private room,1 bath,1.0,900.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,580.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,283.0
+Private room,1 bath,1.0,217.0
+Entire home/apt,1 bath,2.0,499.0
+Entire home/apt,1 bath,2.0,464.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,2.0,500.0
+Private room,1.5 shared baths,1.0,280.0
+Entire home/apt,1 bath,2.0,857.0
+Private room,1 bath,1.0,700.0
+Private room,1 bath,1.0,968.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,480.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,600.0
+Entire home/apt,1 bath,2.0,799.0
+Entire home/apt,1 bath,1.0,531.0
+Private room,1 bath,1.0,238.0
+Private room,1.5 baths,1.0,300.0
+Private room,1 private bath,1.0,600.0
+Private room,1 private bath,1.0,238.0
+Private room,1 private bath,1.0,261.0
+Private room,1 bath,1.0,240.0
+Private room,1 bath,1.0,299.0
+Private room,1 bath,1.0,240.0
+Private room,1 bath,1.0,259.0
+Private room,1 bath,1.0,238.0
+Private room,1 bath,1.0,285.0
+Private room,1 bath,1.0,240.0
+Hotel room,3.5 shared baths,1.0,236.0
+Entire home/apt,1 bath,1.0,608.0
+Private room,1 bath,1.0,236.0
+Private room,1 private bath,1.0,466.0
+Private room,1 shared bath,1.0,500.0
+Private room,1.5 baths,1.0,700.0
+Private room,1 shared bath,1.0,800.0
+Private room,1 private bath,1.0,476.0
+Private room,1 shared bath,1.0,641.0
+Private room,1 bath,1.0,635.0
+Entire home/apt,1.5 baths,1.0,250.0
+Entire home/apt,1.5 baths,1.0,250.0
+Private room,1 bath,1.0,364.0
+Private room,1 bath,1.0,883.0
+Private room,1 private bath,1.0,600.0
+Private room,1 private bath,1.0,627.0
+Entire home/apt,1 bath,1.0,576.0
+Private room,1 private bath,1.0,666.0
+Private room,1 private bath,1.0,452.0
+Private room,1 bath,1.0,347.0
+Private room,1 private bath,1.0,529.0
+Entire home/apt,1 bath,2.0,550.0
+Private room,1 private bath,1.0,360.0
+Private room,1 private bath,1.0,980.0
+Private room,1 private bath,1.0,400.0
+Private room,1 shared bath,1.0,375.0
+Private room,1 private bath,1.0,188.0
+Private room,1 private bath,1.0,444.0
+Hotel room,1 private bath,1.0,270.0
+Shared room,0 shared baths,1.0,186.0
+Private room,1 private bath,1.0,550.0
+Private room,1 private bath,1.0,446.0
+Private room,1 bath,1.0,896.0
+Entire home/apt,1 bath,1.0,654.0
+Private room,1 private bath,2.0,600.0
+Private room,1 private bath,1.0,555.0
+Hotel room,1 private bath,1.0,497.0
+Private room,1 private bath,1.0,684.0
+Private room,1 private bath,1.0,476.0
+Private room,1 private bath,1.0,444.0
+Private room,1 bath,1.0,400.0
+Private room,1 private bath,1.0,497.0
+Hotel room,1 private bath,1.0,497.0
+Private room,1 bath,1.0,343.0
+Private room,1 bath,1.0,836.0
+Entire home/apt,1 bath,1.0,144.0
+Entire home/apt,1 bath,1.0,314.0
+Entire home/apt,1 bath,1.0,286.0
+Private room,1 bath,1.0,236.0
+Private room,1 bath,1.0,693.0
+Private room,1 bath,1.0,493.0
+Private room,1 bath,1.0,586.0
+Private room,1 bath,1.0,414.0
+Entire home/apt,1 bath,2.0,935.0
+Private room,1 bath,1.0,281.0
+Private room,1 private bath,1.0,423.0
+Entire home/apt,1 bath,1.0,402.0
+Entire home/apt,1 bath,1.0,899.0
+Private room,1.5 baths,1.0,664.0
+Hotel room,1 private bath,1.0,514.0
+Private room,1 bath,1.0,700.0
+Private room,1 shared bath,1.0,428.0
+Private room,1 private bath,1.0,391.0
+Private room,1.5 baths,1.0,517.0
+Private room,1 private bath,1.0,800.0
+Private room,1 private bath,1.0,319.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,711.0
+Private room,1 bath,1.0,357.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,543.0
+Private room,1 bath,1.0,334.0
+Private room,1 bath,1.0,313.0
+Entire home/apt,1 bath,2.0,700.0
+Private room,1 shared bath,1.0,277.0
+Private room,1 private bath,1.0,330.0
+Shared room,3 shared baths,1.0,185.0
+Entire home/apt,1 bath,1.0,471.0
+Private room,1 shared bath,1.0,412.0
+Private room,1 private bath,1.0,250.0
+Private room,1 private bath,1.0,370.0
+Private room,1 private bath,1.0,588.0
+Shared room,1 shared bath,1.0,300.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,330.0
+Shared room,1 shared bath,1.0,800.0
+Private room,1 bath,1.0,450.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,430.0
+Private room,1 bath,1.0,230.0
+Private room,1 bath,1.0,230.0
+Private room,1 bath,1.0,500.0
+Private room,1 bath,1.0,350.0
+Private room,1 private bath,1.0,717.0
+Private room,1 bath,1.0,247.0
+Private room,1 private bath,1.0,579.0
+Private room,1 bath,1.0,350.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,450.0
+Private room,1 bath,1.0,550.0
+Private room,1 bath,1.0,550.0
+Private room,2 baths,1.0,550.0
+Private room,1 bath,1.0,600.0
+Hotel room,1 private bath,1.0,428.0
+Private room,1 shared bath,1.0,780.0
+Hotel room,1 bath,1.0,780.0
+Hotel room,1 shared bath,1.0,345.0
+Private room,1 bath,1.0,546.0
+Hotel room,1 private bath,1.0,546.0
+Hotel room,1 bath,1.0,345.0
+Hotel room,1 bath,1.0,312.0
+Entire home/apt,1 bath,1.0,554.0
+Private room,1 bath,1.0,529.0
+Private room,1 private bath,1.0,450.0
+Shared room,0 shared baths,1.0,143.0
+Shared room,0 shared baths,1.0,259.0
+Private room,1.5 baths,1.0,415.0
+Private room,1 shared bath,1.0,496.0
+Private room,1 bath,1.0,450.0
+Shared room,1 shared bath,1.0,200.0
+Private room,1 bath,1.0,450.0
+Private room,1 private bath,1.0,550.0
+Private room,1 bath,1.0,488.0
+Private room,1 bath,1.0,329.0
+Private room,1 private bath,1.0,555.0
+Private room,1 private bath,1.0,664.0
+Private room,1 private bath,1.0,717.0
+Private room,1 bath,1.0,479.0
+Private room,1 bath,1.0,360.0
+Private room,1 bath,1.0,465.0
+Private room,1 private bath,1.0,288.0
+Private room,1 bath,1.0,600.0
+Private room,1 bath,1.0,340.0
+Entire home/apt,Half-bath,3.0,800.0
+Entire home/apt,1 bath,2.0,820.0
+Private room,1 private bath,1.0,248.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,270.0
+Private room,1 bath,1.0,800.0
+Private room,4.5 shared baths,1.0,138.0
+Hotel room,1 bath,1.0,345.0
+Private room,1 shared bath,1.0,170.0
+Private room,1 private bath,1.0,291.0
+Private room,1 private bath,1.0,555.0
+Private room,1 private bath,1.0,431.0
+Private room,1 bath,1.0,570.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,768.0
+Entire home/apt,1 bath,1.0,507.0
+Private room,1 bath,1.0,574.0
+Entire home/apt,1 bath,1.0,573.0
+Private room,1 bath,1.0,440.0
+Private room,1 bath,1.0,849.0
+Private room,1 shared bath,1.0,291.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,957.0
+Private room,1 private bath,1.0,277.0
+Entire home/apt,1 bath,1.0,479.0
+Private room,1.5 shared baths,1.0,850.0
+Private room,1 private bath,1.0,150.0
+Private room,1 private bath,1.0,295.0
+Entire home/apt,1 bath,1.0,811.0
+Private room,Shared half-bath,1.0,587.0
+Private room,1 private bath,1.0,754.0
+Private room,1 private bath,1.0,760.0
+Private room,1 private bath,1.0,724.0
+Private room,1 private bath,1.0,650.0
+Private room,1 bath,1.0,750.0
+Private room,1 bath,1.0,286.0
+Private room,1 bath,1.0,295.0
+Private room,1 private bath,1.0,277.0
+Private room,1 bath,1.0,180.0
+Private room,Shared half-bath,1.0,537.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,555.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,482.0
+Private room,1.5 baths,1.0,580.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,444.0
+Private room,1 private bath,1.0,444.0
+Hotel room,1 private bath,1.0,684.0
+Private room,1 private bath,1.0,497.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Hotel room,1 shared bath,1.0,345.0
+Hotel room,1 bath,1.0,312.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,569.0
+Private room,1 private bath,1.0,316.0
+Private room,1 bath,1.0,370.0
+Private room,1 private bath,1.0,336.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,550.0
+Entire home/apt,1 bath,1.0,570.0
+Private room,1 bath,1.0,240.0
+Private room,1 shared bath,1.0,217.0
+Entire home/apt,1 bath,1.0,450.0
+Private room,1 shared bath,1.0,800.0
+Private room,1 bath,1.0,180.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 private bath,1.0,544.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,700.0
+Private room,1 shared bath,1.0,180.0
+Hotel room,1 private bath,1.0,280.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,299.0
+Private room,1 private bath,1.0,717.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,650.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,728.0
+Private room,1 bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,990.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,454.0
+Shared room,0 shared baths,1.0,700.0
+Private room,1.5 baths,1.0,450.0
+Private room,1 bath,1.0,180.0
+Hotel room,4 shared baths,1.0,125.0
+Private room,1 private bath,1.0,370.0
+Private room,Private half-bath,1.0,650.0
+Private room,1 private bath,1.0,555.0
+Private room,1 private bath,1.0,774.0
+Hotel room,1 private bath,1.0,555.0
+Private room,1 bath,1.0,180.0
+Hotel room,1 private bath,1.0,684.0
+Hotel room,1 private bath,1.0,555.0
+Hotel room,1 private bath,1.0,555.0
+Private room,1 bath,1.0,436.0
+Private room,1 bath,1.0,360.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 baths,1.0,325.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,558.0
+Private room,1 private bath,1.0,358.0
+Private room,1 bath,1.0,280.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,277.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 private bath,1.0,130.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,295.0
+Private room,1 bath,1.0,295.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Shared room,3 shared baths,1.0,185.0
+Private room,1.5 shared baths,1.0,392.0
+Shared room,3 shared baths,1.0,185.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,1.0,685.0
+Private room,1 bath,1.0,360.0
+Private room,2 shared baths,1.0,130.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,360.0
+Private room,1 bath,1.0,330.0
+Private room,1 private bath,1.0,320.0
+Private room,1 private bath,1.0,482.0
+Private room,1 bath,1.0,130.0
+Private room,1.5 baths,1.0,497.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,217.0
+Private room,1 private bath,1.0,482.0
+Entire home/apt,1 bath,1.0,690.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,360.0
+Private room,1 private bath,1.0,277.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,384.0
+Private room,1 bath,1.0,400.0
+Private room,1.5 baths,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,555.0
+Private room,1 shared bath,1.0,950.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1.5 baths,2.0,750.0
+Private room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,130.0
+Private room,1 private bath,1.0,140.0
+Shared room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,300.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,Private half-bath,1.0,264.0
+Entire home/apt,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,2.0,730.0
+Private room,1 private bath,1.0,226.0
+Private room,1.5 baths,1.0,541.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,200.0
+Private room,2 shared baths,1.0,130.0
+Private room,1 private bath,1.0,130.0
+Private room,1.5 baths,1.0,456.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 private bath,1.0,180.0
+Private room,1 shared bath,1.0,380.0
+Private room,1 private bath,1.0,180.0
+Private room,1 private bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,130.0
+Private room,1 bath,1.0,246.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,238.0
+Entire home/apt,2.5 baths,3.0,650.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 private bath,1.0,497.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,328.0
+Private room,1.5 baths,1.0,402.0
+Private room,1 private bath,1.0,364.0
+Private room,1 private bath,1.0,600.0
+Private room,1 private bath,1.0,460.0
+Private room,1 private bath,1.0,220.0
+Entire home/apt,1 bath,1.0,928.0
+Entire home/apt,1 bath,2.0,750.0
+Entire home/apt,1 bath,1.0,540.0
+Private room,1.5 baths,1.0,411.0
+Entire home/apt,1 bath,2.0,750.0
+Entire home/apt,1 bath,2.0,880.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,1.0,529.0
+Private room,1.5 shared baths,1.0,366.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,2.0,800.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,459.0
+Hotel room,1 private bath,1.0,292.0
+Private room,1 shared bath,1.0,238.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,277.0
+Private room,1 bath,1.0,277.0
+Private room,1 bath,1.0,544.0
+Private room,1 private bath,1.0,292.0
+Private room,1 private bath,1.0,292.0
+Private room,1 private bath,1.0,308.0
+Private room,1 private bath,1.0,308.0
+Private room,1 private bath,1.0,308.0
+Private room,1 private bath,1.0,383.0
+Private room,1 private bath,1.0,383.0
+Private room,1 private bath,1.0,415.0
+Private room,1 private bath,1.0,280.0
+Private room,1 private bath,1.0,292.0
+Private room,1 private bath,1.0,404.0
+Shared room,3 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 bath,1.0,364.0
+Private room,1 bath,1.0,387.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 bath,1.0,464.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 private bath,1.0,514.0
+Entire home/apt,1 bath,2.0,734.0
+Private room,1.5 shared baths,1.0,380.0
+Entire home/apt,1 bath,1.0,390.0
+Private room,1 bath,1.0,650.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,499.0
+Private room,1 private bath,1.0,429.0
+Private room,1 private bath,1.0,599.0
+Private room,1 private bath,1.0,799.0
+Private room,1 shared bath,1.0,699.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,589.0
+Private room,1 bath,1.0,364.0
+Private room,1 private bath,1.0,360.0
+Entire home/apt,1 bath,1.0,480.0
+Entire home/apt,1 bath,2.0,709.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1.5 baths,1.0,399.0
+Private room,1 bath,1.0,180.0
+Private room,1.5 baths,1.0,523.0
+Private room,2 baths,1.0,180.0
+Private room,1 private bath,1.0,892.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 private bath,1.0,180.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,619.0
+Private room,1 bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,150.0
+Entire home/apt,1 bath,1.0,659.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,158.0
+Private room,1 private bath,1.0,485.0
+Private room,1 bath,1.0,320.0
+Private room,1 bath,1.0,800.0
+Private room,1.5 shared baths,1.0,235.0
+Private room,1 bath,1.0,150.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,2.0,660.0
+Private room,1 bath,1.0,160.0
+Entire home/apt,1.5 baths,1.0,767.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,688.0
+Private room,0 baths,1.0,130.0
+Private room,1 bath,1.0,286.0
+Private room,3 shared baths,1.0,158.0
+Entire home/apt,1 bath,1.0,890.0
+Private room,1 private bath,1.0,260.0
+Entire home/apt,1 bath,1.0,609.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,1.0,810.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,2 baths,1.0,180.0
+Private room,0 baths,1.0,130.0
+Private room,1 shared bath,1.0,450.0
+Private room,0 baths,1.0,160.0
+Private room,1 bath,1.0,180.0
+Shared room,4 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,280.0
+Entire home/apt,1 bath,1.0,686.0
+Private room,1.5 baths,1.0,619.0
+Entire home/apt,1 bath,1.0,499.0
+Private room,1 private bath,1.0,130.0
+Private room,1 private bath,1.0,130.0
+Entire home/apt,1 bath,1.0,180.0
+Private room,1.5 shared baths,1.0,272.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,315.0
+Entire home/apt,3 baths,3.0,900.0
+Private room,1 private bath,1.0,360.0
+Private room,1 private bath,1.0,350.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,699.0
+Private room,1 shared bath,1.0,180.0
+Private room,3 shared baths,5.0,200.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,799.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,2 baths,3.0,900.0
+Entire home/apt,2 baths,3.0,800.0
+Private room,1 shared bath,1.0,354.0
+Entire home/apt,1.5 baths,1.0,880.0
+Private room,1 shared bath,1.0,300.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,1.0,482.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,2 baths,2.0,700.0
+Private room,1 shared bath,1.0,394.0
+Private room,1 private bath,1.0,523.0
+Private room,1.5 baths,1.0,725.0
+Private room,1.5 baths,1.0,414.0
+Private room,1.5 baths,1.0,586.0
+Private room,0 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,531.0
+Private room,1 bath,1.0,330.0
+Entire home/apt,2 baths,2.0,565.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,0 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,308.0
+Private room,1 private bath,1.0,383.0
+Entire home/apt,1.5 baths,1.0,269.0
+Entire home/apt,1 bath,1.0,850.0
+Private room,1.5 shared baths,1.0,600.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,319.0
+Entire home/apt,1 bath,1.0,625.0
+Private room,1 shared bath,1.0,209.0
+Private room,1 private bath,1.0,450.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,250.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,484.0
+Private room,1 private bath,1.0,330.0
+Private room,1 shared bath,1.0,130.0
+Private room,5 shared baths,5.0,250.0
+Private room,1 private bath,1.0,624.0
+Hotel room,Half-bath,1.0,120.0
+Hotel room,1 private bath,1.0,766.0
+Private room,1 shared bath,1.0,130.0
+Shared room,1.5 shared baths,1.0,707.0
+Hotel room,1 shared bath,1.0,185.0
+Entire home/apt,1 bath,1.0,686.0
+Entire home/apt,1 bath,1.0,800.0
+Entire home/apt,1 bath,1.0,711.0
+Private room,1 private bath,1.0,599.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,685.0
+Private room,2 baths,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,480.0
+Private room,1 private bath,1.0,286.0
+Private room,1 private bath,1.0,520.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,306.0
+Private room,1 private bath,1.0,403.0
+Private room,1 private bath,1.0,416.0
+Private room,1 private bath,1.0,360.0
+Private room,1 private bath,1.0,294.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,364.0
+Private room,1 private bath,1.0,307.0
+Private room,1 bath,1.0,600.0
+Private room,1 private bath,1.0,130.0
+Shared room,1 shared bath,1.0,800.0
+Entire home/apt,2 baths,2.0,660.0
+Entire home/apt,1.5 baths,2.0,690.0
+Private room,1.5 shared baths,1.0,391.0
+Private room,1 private bath,1.0,376.0
+Private room,1 shared bath,1.0,290.0
+Entire home/apt,1 bath,1.0,820.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,500.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,1.0,488.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,788.0
+Private room,1 private bath,1.0,334.0
+Private room,1 private bath,1.0,369.0
+Entire home/apt,1 bath,1.0,638.0
+Shared room,1 shared bath,1.0,450.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,477.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,Shared half-bath,1.0,155.0
+Private room,1 shared bath,1.0,130.0
+Private room,2 baths,1.0,180.0
+Hotel room,1 private bath,1.0,609.0
+Entire home/apt,1 bath,1.0,650.0
+Hotel room,1 private bath,1.0,343.0
+Private room,1 private bath,1.0,130.0
+Hotel room,1 private bath,1.0,343.0
+Hotel room,1 private bath,1.0,343.0
+Hotel room,1 private bath,1.0,343.0
+Hotel room,1 private bath,1.0,343.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,445.0
+Hotel room,1 private bath,1.0,445.0
+Hotel room,1 private bath,1.0,445.0
+Hotel room,1 private bath,1.0,445.0
+Hotel room,1 private bath,1.0,471.0
+Hotel room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,609.0
+Private room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,609.0
+Private room,1 private bath,1.0,400.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Entire home/apt,1 bath,1.0,645.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,650.0
+Hotel room,1 private bath,1.0,365.0
+Hotel room,1 private bath,1.0,365.0
+Hotel room,1 private bath,1.0,344.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,388.0
+Hotel room,1 private bath,1.0,363.0
+Hotel room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,609.0
+Private room,1 private bath,1.0,455.0
+Entire home/apt,1 bath,1.0,780.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,480.0
+Entire home/apt,1 bath,1.0,432.0
+Entire home/apt,1 bath,1.0,450.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,384.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 shared baths,1.0,300.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,780.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,132.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,1 shared bath,1.0,220.0
+Private room,Shared half-bath,1.0,150.0
+Private room,1 private bath,1.0,541.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,306.0
+Private room,1 private bath,1.0,328.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,800.0
+Entire home/apt,2 baths,2.0,700.0
+Private room,1 private bath,1.0,330.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,219.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,729.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,2 baths,4.0,800.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,600.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,732.0
+Entire home/apt,1 bath,2.0,714.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,352.0
+Entire home/apt,1 bath,2.0,950.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 private bath,1.0,628.0
+Shared room,1 shared bath,1.0,120.0
+Private room,1 private bath,1.0,296.0
+Private room,1 private bath,1.0,217.0
+Entire home/apt,1 bath,1.0,714.0
+Private room,1 private bath,1.0,593.0
+Private room,1 private bath,1.0,843.0
+Private room,1 private bath,1.0,550.0
+Private room,1 shared bath,1.0,130.0
+Shared room,3 shared baths,1.0,185.0
+Shared room,3 shared baths,1.0,185.0
+Entire home/apt,1 bath,1.0,600.0
+Shared room,1 shared bath,1.0,358.0
+Shared room,1 shared bath,1.0,358.0
+Shared room,1 shared bath,1.0,358.0
+Private room,1 shared bath,1.0,210.0
+Private room,1 private bath,1.0,717.0
+Private room,1 private bath,1.0,717.0
+Entire home/apt,1 bath,1.0,498.0
+Entire home/apt,1 bath,1.0,640.0
+Entire home/apt,1 bath,1.0,670.0
+Private room,1 private bath,1.0,337.0
+Private room,1 private bath,1.0,337.0
+Private room,1 private bath,1.0,337.0
+Shared room,3 shared baths,1.0,185.0
+Private room,1 private bath,1.0,310.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,950.0
+Private room,1 shared bath,1.0,130.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 private bath,1.0,474.0
+Private room,1 private bath,1.0,310.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,617.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,439.0
+Private room,1 private bath,1.0,481.0
+Private room,1 private bath,1.0,405.0
+Private room,1 private bath,1.0,489.0
+Private room,1 private bath,1.0,439.0
+Entire home/apt,1 bath,1.0,540.0
+Private room,1.5 baths,1.0,450.0
+Private room,1 private bath,1.0,517.0
+Private room,1 private bath,1.0,337.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,509.0
+Private room,1 private bath,1.0,330.0
+Entire home/apt,1 bath,1.0,650.0
+Private room,1 private bath,1.0,404.0
+Private room,1.5 shared baths,1.0,683.0
+Private room,1 private bath,1.0,355.0
+Private room,1 private bath,1.0,408.0
+Private room,1 private bath,1.0,408.0
+Private room,1 private bath,1.0,465.0
+Private room,1 private bath,1.0,465.0
+Private room,1 private bath,1.0,562.0
+Private room,1 private bath,1.0,580.0
+Private room,1 private bath,1.0,532.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,457.0
+Private room,1 private bath,1.0,481.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,520.0
+Private room,1 private bath,1.0,488.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,2 baths,2.0,850.0
+Entire home/apt,1 bath,2.0,900.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,479.0
+Entire home/apt,1 bath,2.0,900.0
+Private room,2 shared baths,2.0,900.0
+Private room,1 private bath,1.0,771.0
+Shared room,1 shared bath,1.0,148.0
+Private room,1 shared bath,2.0,248.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 shared bath,3.0,485.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,1.0,750.0
+Entire home/apt,1 bath,1.0,790.0
+Entire home/apt,1 bath,1.0,229.0
+Private room,1 private bath,1.0,420.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1.5 baths,1.0,810.0
+Private room,1 shared bath,1.0,350.0
+Entire home/apt,1 bath,2.0,988.0
+Private room,1 shared bath,1.0,500.0
+Private room,1 private bath,1.0,411.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,676.0
+Private room,1 private bath,1.0,523.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,688.0
+Hotel room,1 shared bath,1.0,312.0
+Shared room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,483.0
+Private room,1 private bath,1.0,519.0
+Private room,1 shared bath,1.0,130.0
+Shared room,2 shared baths,1.0,300.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,497.0
+Private room,1 private bath,1.0,356.0
+Entire home/apt,1 bath,1.0,555.0
+Entire home/apt,1 bath,1.0,479.0
+Private room,1 private bath,1.0,460.0
+Private room,1 private bath,1.0,360.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,Half-bath,1.0,580.0
+Private room,1 private bath,1.0,663.0
+Private room,1 private bath,1.0,406.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,507.0
+Private room,1 shared bath,1.0,300.0
+Entire home/apt,1 bath,2.0,382.0
+Private room,2 shared baths,1.0,100.0
+Entire home/apt,1 bath,3.0,893.0
+Private room,1 private bath,1.0,460.0
+Private room,1 private bath,1.0,700.0
+Entire home/apt,1 bath,1.0,653.0
+Private room,1 shared bath,1.0,550.0
+Private room,1 shared bath,1.0,457.0
+Private room,1 shared bath,1.0,130.0
+Shared room,1.5 shared baths,1.0,598.0
+Private room,1 private bath,1.0,791.0
+Hotel room,1 private bath,1.0,320.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 private bath,1.0,217.0
+Entire home/apt,2 baths,1.0,399.0
+Entire home/apt,1.5 baths,1.0,427.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,384.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 shared bath,1.0,205.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,736.0
+Private room,1 private bath,1.0,766.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,200.0
+Private room,1 shared bath,1.0,380.0
+Private room,1 shared bath,1.0,888.0
+Entire home/apt,1.5 baths,1.0,500.0
+Entire home/apt,1 bath,2.0,817.0
+Private room,1 private bath,1.0,460.0
+Private room,1 private bath,1.0,251.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,598.0
+Private room,1 shared bath,1.0,380.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,380.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,1.0,750.0
+Private room,2 shared baths,6.0,180.0
+Private room,1 private bath,1.0,447.0
+Entire home/apt,1 bath,1.0,920.0
+Entire home/apt,1 bath,1.0,850.0
+Private room,1 private bath,2.0,814.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,206.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,178.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,334.0
+Private room,1 private bath,1.0,371.0
+Private room,1 private bath,1.0,206.0
+Private room,1 private bath,1.0,206.0
+Shared room,2 shared baths,1.0,380.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,754.0
+Private room,1 private bath,1.0,857.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,100.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,135.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,750.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,353.0
+Private room,1 shared bath,1.0,267.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,135.0
+Private room,1 private bath,1.0,200.0
+Private room,1 bath,1.0,163.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,420.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,650.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,143.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,270.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,217.0
+Entire home/apt,1 bath,1.0,436.0
+Private room,1 private bath,1.0,424.0
+Private room,1 private bath,1.0,328.0
+Private room,1 private bath,1.0,370.0
+Private room,1 private bath,1.0,279.0
+Entire home/apt,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,220.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,335.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,360.0
+Private room,1 private bath,1.0,313.0
+Entire home/apt,1.5 baths,1.0,590.0
+Private room,1 shared bath,1.0,620.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,1.0,880.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,386.0
+Entire home/apt,1 bath,1.0,788.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,438.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,1.5 shared baths,1.0,250.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,480.0
+Private room,1 shared bath,1.0,480.0
+Private room,1 private bath,1.0,586.0
+Entire home/apt,1.5 baths,1.0,598.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,550.0
+Private room,1 shared bath,1.0,438.0
+Entire home/apt,1 bath,1.0,850.0
+Private room,1.5 baths,1.0,543.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1.5 shared baths,1.0,380.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,410.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1 bath,2.0,699.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,380.0
+Private room,1 shared bath,1.0,120.0
+Private room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 private bath,1.0,383.0
+Private room,1 private bath,1.0,265.0
+Private room,1 private bath,1.0,265.0
+Private room,1 private bath,1.0,415.0
+Private room,1 private bath,1.0,415.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,380.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,121.0
+Private room,1 shared bath,1.0,400.0
+Shared room,2 shared baths,1.0,263.0
+Shared room,2 shared baths,1.0,249.0
+Shared room,2 shared baths,1.0,283.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,2.0,909.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 shared bath,1.0,150.0
+Entire home/apt,1 bath,1.0,717.0
+Private room,1 shared bath,1.0,620.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,450.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 baths,1.0,454.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 private bath,1.0,400.0
+Private room,1.5 baths,1.0,750.0
+Entire home/apt,1 bath,2.0,893.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,439.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,473.0
+Private room,1 private bath,1.0,537.0
+Private room,1 private bath,1.0,615.0
+Private room,1 shared bath,1.0,692.0
+Private room,1 private bath,1.0,692.0
+Private room,1 private bath,1.0,692.0
+Private room,1 private bath,1.0,692.0
+Private room,1 private bath,1.0,439.0
+Private room,1 private bath,1.0,439.0
+Private room,1 private bath,1.0,439.0
+Private room,1 private bath,1.0,439.0
+Private room,1 private bath,1.0,481.0
+Private room,1 private bath,1.0,481.0
+Private room,1 private bath,1.0,481.0
+Private room,1 private bath,1.0,481.0
+Private room,1 private bath,1.0,537.0
+Private room,1 private bath,1.0,537.0
+Private room,1 private bath,1.0,537.0
+Private room,1 private bath,1.0,615.0
+Private room,1 private bath,1.0,615.0
+Private room,1 private bath,1.0,217.0
+Private room,2 shared baths,1.0,180.0
+Entire home/apt,1 bath,2.0,850.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 shared bath,1.0,130.0
+Shared room,2 shared baths,1.0,207.0
+Private room,1 shared bath,1.0,455.0
+Private room,1 private bath,1.0,555.0
+Private room,2 shared baths,1.0,563.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1.5 baths,1.0,357.0
+Private room,1 shared bath,1.0,235.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Hotel room,1 shared bath,1.0,459.0
+Private room,2 baths,3.0,700.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,125.0
+Private room,1 private bath,1.0,350.0
+Private room,1.5 shared baths,1.0,600.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 private bath,1.0,280.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,2 shared baths,1.0,160.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,650.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,414.0
+Private room,1 bath,1.0,200.0
+Private room,1 bath,1.0,200.0
+Private room,1 shared bath,1.0,226.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,299.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,480.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,1.0,300.0
+Private room,1 bath,1.0,200.0
+Private room,1 bath,1.0,436.0
+Private room,1 bath,1.0,200.0
+Private room,1 bath,1.0,200.0
+Entire home/apt,1 bath,1.0,914.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,225.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,500.0
+Private room,1 shared bath,1.0,130.0
+Shared room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,401.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 private bath,1.0,404.0
+Private room,1 private bath,1.0,454.0
+Private room,1 private bath,1.0,488.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,1.0,300.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,1.0,449.0
+Entire home/apt,1 bath,1.0,480.0
+Entire home/apt,1 bath,1.0,350.0
+Entire home/apt,1 bath,1.0,421.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,760.0
+Entire home/apt,1 bath,1.0,350.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,704.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,200.0
+Private room,1 private bath,1.0,298.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,150.0
+Private room,2 shared baths,1.0,130.0
+Entire home/apt,1 bath,1.0,336.0
+Entire home/apt,1 bath,1.0,299.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,550.0
+Private room,1 shared bath,1.0,650.0
+Entire home/apt,1 bath,1.0,408.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 private bath,1.0,287.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,1.0,629.0
+Private room,1 private bath,1.0,543.0
+Private room,1 private bath,1.0,436.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,250.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,700.0
+Entire home/apt,2 baths,3.0,700.0
+Hotel room,2 baths,1.0,284.0
+Entire home/apt,1 bath,1.0,700.0
+Hotel room,2.5 baths,1.0,207.0
+Private room,1 private bath,1.0,439.0
+Entire home/apt,1 bath,2.0,811.0
+Entire home/apt,1 bath,1.0,980.0
+Entire home/apt,1 bath,1.0,971.0
+Private room,1 shared bath,1.0,357.0
+Entire home/apt,2 baths,1.0,800.0
+Private room,1 private bath,1.0,717.0
+Private room,1.5 baths,1.0,350.0
+Private room,1 private bath,1.0,490.0
+Private room,1 private bath,1.0,400.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,430.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,430.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,450.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 shared bath,1.0,231.0
+Private room,1 shared bath,1.0,200.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,180.0
+Private room,1 shared bath,1.0,110.0
+Private room,1 shared bath,1.0,120.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,620.0
+Private room,1.5 baths,1.0,250.0
+Private room,1 shared bath,1.0,400.0
+Entire home/apt,1.5 baths,1.0,700.0
+Private room,1 shared bath,1.0,600.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 baths,1.0,600.0
+Entire home/apt,1 bath,1.0,700.0
+Shared room,1 shared bath,1.0,150.0
+Entire home/apt,1.5 baths,1.0,999.0
+Shared room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,180.0
+Private room,0 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,217.0
+Shared room,1 shared bath,1.0,243.0
+Private room,1 private bath,1.0,617.0
+Private room,1 shared bath,1.0,371.0
+Private room,1 private bath,1.0,574.0
+Private room,1 private bath,1.0,615.0
+Private room,1 private bath,1.0,537.0
+Private room,1 private bath,1.0,414.0
+Entire home/apt,1 bath,2.0,958.0
+Shared room,4 shared baths,1.0,227.0
+Shared room,4 shared baths,1.0,285.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,380.0
+Private room,1 shared bath,1.0,943.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,500.0
+Shared room,1 shared bath,1.0,772.0
+Private room,1 private bath,1.0,600.0
+Private room,1 shared bath,1.0,214.0
+Private room,1 private bath,1.0,352.0
+Entire home/apt,1 bath,2.0,814.0
+Private room,1 bath,1.0,130.0
+Private room,4 shared baths,4.0,720.0
+Private room,1 private bath,1.0,430.0
+Private room,1 private bath,1.0,400.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,620.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,320.0
+Private room,1 private bath,1.0,300.0
+Private room,1 private bath,1.0,300.0
+Private room,1 private bath,1.0,400.0
+Private room,1 shared bath,1.0,330.0
+Private room,1 shared bath,1.0,300.0
+Private room,1 shared bath,1.0,300.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,480.0
+Entire home/apt,1 bath,1.0,830.0
+Private room,1 shared bath,1.0,224.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,3.0,719.0
+Entire home/apt,1 bath,1.0,771.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,500.0
+Shared room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 shared bath,1.0,242.0
+Shared room,1 shared bath,1.0,250.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,210.0
+Entire home/apt,1 bath,2.0,900.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,130.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,600.0
+Shared room,1 shared bath,1.0,270.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,120.0
+Private room,1 shared bath,1.0,600.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,460.0
+Private room,1 private bath,1.0,980.0
+Private room,1 private bath,1.0,450.0
+Entire home/apt,1 bath,2.0,629.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,420.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,220.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,650.0
+Entire home/apt,1 bath,2.0,600.0
+Entire home/apt,1.5 baths,1.0,600.0
+Private room,1 shared bath,1.0,600.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,3.0,850.0
+Entire home/apt,1 bath,1.0,787.0
+Private room,1 shared bath,1.0,319.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,150.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Entire home/apt,1 bath,1.0,768.0
+Entire home/apt,1 bath,1.0,768.0
+Private room,1 shared bath,1.0,424.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,991.0
+Private room,1 shared bath,1.0,350.0
+Private room,1.5 shared baths,1.0,180.0
+Entire home/apt,1 bath,1.0,783.0
+Private room,1 shared bath,1.0,140.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,380.0
+Entire home/apt,1 bath,1.0,489.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,350.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,768.0
+Private room,1 bath,1.0,110.0
+Private room,1 shared bath,1.0,150.0
+Entire home/apt,1 bath,2.0,750.0
+Private room,1 bath,1.0,180.0
+Private room,1.5 shared baths,1.0,240.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,120.0
+Private room,1 shared bath,1.0,620.0
+Private room,1 bath,1.0,350.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,550.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,502.0
+Private room,1 shared bath,1.0,700.0
+Shared room,1 shared bath,1.0,489.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,768.0
+Shared room,1 shared bath,1.0,588.0
+Shared room,1 shared bath,1.0,348.0
+Shared room,1 shared bath,1.0,348.0
+Shared room,1 shared bath,1.0,345.0
+Shared room,1 shared bath,1.0,345.0
+Shared room,1 shared bath,1.0,372.0
+Entire home/apt,3 baths,3.0,877.0
+Private room,1 private bath,1.0,248.0
+Private room,1 private bath,1.0,388.0
+Private room,1 private bath,1.0,248.0
+Private room,1 private bath,1.0,400.0
+Private room,4 baths,4.0,720.0
+Private room,4 baths,4.0,720.0
+Private room,1.5 baths,1.0,380.0
+Private room,1.5 baths,1.0,500.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,481.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,217.0
+Entire home/apt,1 bath,1.0,410.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,460.0
+Private room,1 shared bath,1.0,180.0
+Private room,Shared half-bath,1.0,288.0
+Shared room,3 shared baths,1.0,172.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,690.0
+Entire home/apt,1 bath,1.0,551.0
+Entire home/apt,1 bath,1.0,541.0
+Private room,1 private bath,1.0,430.0
+Private room,1 private bath,1.0,590.0
+Private room,1 private bath,1.0,490.0
+Private room,1 private bath,1.0,490.0
+Private room,1 private bath,1.0,277.0
+Private room,1 private bath,1.0,280.0
+Shared room,1 shared bath,1.0,160.0
+Private room,1 private bath,1.0,480.0
+Shared room,1 shared bath,1.0,191.0
+Shared room,1 shared bath,1.0,657.0
+Private room,1 shared bath,1.0,329.0
+Entire home/apt,1 bath,3.0,775.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,880.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,684.0
+Entire home/apt,1 bath,1.0,684.0
+Private room,1 bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Entire home/apt,1 bath,1.0,517.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,248.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,140.0
+Entire home/apt,1 bath,1.0,880.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,3.0,800.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,323.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1.5 shared baths,1.0,857.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,150.0
+Private room,1 private bath,1.0,479.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,246.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,500.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,550.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,220.0
+Private room,1 private bath,1.0,570.0
+Private room,1 private bath,1.0,250.0
+Private room,1.5 baths,1.0,220.0
+Private room,1 private bath,1.0,250.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,2.0,650.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1.5 baths,1.0,717.0
+Entire home/apt,1 bath,1.0,685.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,995.0
+Entire home/apt,2 baths,2.0,885.0
+Private room,1 bath,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,228.0
+Private room,1 private bath,1.0,228.0
+Private room,1 private bath,1.0,228.0
+Private room,1 private bath,1.0,348.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,348.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,223.0
+Hotel room,1 bath,1.0,154.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,145.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Hotel room,1 bath,1.0,177.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Shared room,1 shared bath,1.0,160.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,150.0
+Shared room,1 shared bath,1.0,180.0
+Hotel room,1 private bath,1.0,800.0
+Private room,Private half-bath,1.0,800.0
+Shared room,1 shared bath,1.0,180.0
+Hotel room,1 bath,1.0,124.0
+Hotel room,1 private bath,1.0,496.0
+Hotel room,1 private bath,1.0,457.0
+Private room,1 shared bath,1.0,147.0
+Hotel room,1 private bath,1.0,609.0
+Hotel room,1 private bath,1.0,486.0
+Private room,1 private bath,1.0,491.0
+Private room,2 shared baths,1.0,180.0
+Hotel room,1 private bath,1.0,330.0
+Hotel room,1 private bath,1.0,400.0
+Private room,1 shared bath,1.0,147.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,120.0
+Private room,1 private bath,1.0,235.0
+Private room,1 private bath,1.0,648.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,147.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,729.0
+Entire home/apt,1 bath,2.0,600.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,823.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,160.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,450.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,120.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,160.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,160.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,293.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,770.0
+Entire home/apt,1 bath,1.0,867.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,527.0
+Entire home/apt,1 bath,1.0,867.0
+Private room,2 shared baths,5.0,220.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,211.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,4.0,500.0
+Private room,2 baths,1.0,180.0
+Entire home/apt,1 bath,1.0,829.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Shared room,1 shared bath,1.0,398.0
+Private room,1 shared bath,1.0,206.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,424.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,861.0
+Entire home/apt,2 baths,3.0,900.0
+Private room,1 private bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,520.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,350.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,358.0
+Private room,1 shared bath,4.0,267.0
+Private room,1 bath,1.0,160.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,196.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,561.0
+Private room,1 bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Entire home/apt,1 bath,1.0,590.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,160.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,217.0
+Private room,1 private bath,1.0,180.0
+Private room,1 private bath,1.0,217.0
+Private room,1 shared bath,1.0,561.0
+Private room,1 private bath,1.0,561.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,2 shared baths,1.0,145.0
+Private room,2 shared baths,1.0,150.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 bath,1.0,265.0
+Private room,1 bath,1.0,217.0
+Shared room,1 shared bath,1.0,230.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,929.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,2 baths,1.0,142.0
+Private room,2 baths,1.0,140.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,650.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,217.0
+Private room,1 private bath,1.0,390.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Entire home/apt,1 bath,2.0,549.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,120.0
+Private room,1 bath,1.0,190.0
+Shared room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,150.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,893.0
+Private room,1 bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 shared bath,2.0,700.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,235.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,206.0
+Private room,1 bath,1.0,150.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1.5 baths,1.0,540.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,180.0
+Private room,1 shared bath,1.0,150.0
+Entire home/apt,1 bath,1.0,380.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 private bath,1.0,392.0
+Private room,1 private bath,1.0,550.0
+Private room,1 private bath,1.0,667.0
+Private room,1 private bath,1.0,829.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,499.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,4.0,171.0
+Private room,1 shared bath,4.0,300.0
+Private room,1 shared bath,4.0,260.0
+Private room,1 private bath,1.0,398.0
+Private room,1 private bath,1.0,250.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 bath,1.0,601.0
+Private room,1 private bath,1.0,700.0
+Private room,1 shared bath,1.0,150.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,634.0
+Entire home/apt,1 bath,1.0,470.0
+Private room,1 private bath,1.0,800.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,2.0,900.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,399.0
+Private room,1.5 baths,1.0,561.0
+Private room,1 bath,1.0,600.0
+Private room,1 shared bath,1.0,620.0
+Entire home/apt,1 bath,2.0,650.0
+Entire home/apt,1 bath,1.0,757.0
+Private room,1 shared bath,1.0,797.0
+Private room,1 bath,1.0,598.0
+Private room,1 shared bath,1.0,173.0
+Private room,1 bath,1.0,180.0
+Private room,1.5 baths,1.0,300.0
+Private room,1 shared bath,4.0,260.0
+Entire home/apt,1 bath,2.0,950.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,2 baths,2.0,966.0
+Private room,1 private bath,1.0,700.0
+Entire home/apt,1 bath,1.0,390.0
+Entire home/apt,1 bath,1.0,600.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1.5 baths,3.0,980.0
+Private room,1 shared bath,1.0,180.0
+Private room,1.5 shared baths,1.0,300.0
+Entire home/apt,1 bath,2.0,300.0
+Entire home/apt,1.5 baths,2.0,999.0
+Private room,1 bath,1.0,180.0
+Shared room,2 shared baths,1.0,185.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Shared room,2 shared baths,1.0,185.0
+Entire home/apt,1 bath,1.0,590.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,538.0
+Private room,1 private bath,1.0,638.0
+Private room,1 private bath,1.0,311.0
+Private room,1 bath,1.0,538.0
+Private room,1 bath,1.0,349.0
+Private room,1 private bath,1.0,538.0
+Private room,1 bath,1.0,438.0
+Private room,1 bath,1.0,538.0
+Private room,2 shared baths,1.0,150.0
+Entire home/apt,1 bath,1.0,479.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,460.0
+Hotel room,1 bath,1.0,943.0
+Entire home/apt,1 bath,1.0,750.0
+Entire home/apt,1 bath,1.0,707.0
+Private room,2 baths,1.0,210.0
+Private room,1 shared bath,1.0,400.0
+Entire home/apt,1 bath,2.0,708.0
+Hotel room,Private half-bath,1.0,200.0
+Entire home/apt,1 bath,1.0,603.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,2.0,700.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 bath,1.0,150.0
+Entire home/apt,1 bath,1.0,438.0
+Entire home/apt,1 bath,2.0,880.0
+Private room,1 shared bath,1.0,400.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,462.0
+Entire home/apt,1.5 baths,1.0,580.0
+Private room,1.5 baths,1.0,200.0
+Entire home/apt,1.5 baths,1.0,900.0
+Hotel room,2 shared baths,1.0,636.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,250.0
+Shared room,1.5 shared baths,1.0,160.0
+Shared room,1.5 shared baths,1.0,130.0
+Entire home/apt,1 bath,2.0,400.0
+Private room,1 shared bath,1.0,280.0
+Private room,1 bath,1.0,260.0
+Private room,1 bath,1.0,206.0
+Private room,0 shared baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,120.0
+Private room,1 bath,1.0,166.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,206.0
+Private room,1.5 baths,1.0,300.0
+Private room,2 baths,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,273.0
+Hotel room,4 shared baths,1.0,125.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,302.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,250.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1 bath,1.0,500.0
+Shared room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,350.0
+Private room,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,428.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,407.0
+Private room,1 shared bath,1.0,855.0
+Private room,1 private bath,1.0,457.0
+Private room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,130.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 private bath,1.0,671.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,310.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Entire home/apt,1 bath,1.0,249.0
+Private room,1 shared bath,1.0,314.0
+Private room,1 bath,1.0,160.0
+Private room,1 bath,1.0,130.0
+Private room,2 baths,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,256.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,255.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,2.0,990.0
+Private room,1 bath,1.0,190.0
+Private room,1 bath,1.0,215.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,283.0
+Private room,1 bath,1.0,250.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,190.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,140.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,257.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 private bath,1.0,380.0
+Private room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Entire home/apt,1.5 baths,1.0,760.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,2 shared baths,1.0,120.0
+Private room,1 shared bath,1.0,180.0
+Private room,2 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Shared room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,521.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,266.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,223.0
+Entire home/apt,1 bath,1.0,370.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,2 baths,1.0,160.0
+Private room,1 bath,1.0,130.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,286.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,1.0,270.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Shared room,2 shared baths,1.0,220.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,2 baths,1.0,160.0
+Shared room,1.5 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Shared room,2 shared baths,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,620.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,615.0
+Entire home/apt,1 bath,1.0,130.0
+Shared room,2 shared baths,1.0,180.0
+Private room,2 baths,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,2 baths,1.0,217.0
+Shared room,2 shared baths,1.0,180.0
+Shared room,2 shared baths,1.0,180.0
+Shared room,2 shared baths,1.0,150.0
+Shared room,2 shared baths,1.0,150.0
+Shared room,2 shared baths,1.0,180.0
+Private room,1 private bath,1.0,350.0
+Private room,1 shared bath,1.0,350.0
+Shared room,1 shared bath,1.0,300.0
+Shared room,6 shared baths,1.0,118.0
+Shared room,1 shared bath,1.0,200.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,750.0
+Private room,1 shared bath,1.0,693.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Shared room,1 shared bath,1.0,180.0
+Shared room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,493.0
+Private room,1 private bath,1.0,384.0
+Private room,1 private bath,1.0,412.0
+Private room,1 shared bath,1.0,300.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,10 baths,10.0,550.0
+Private room,2 baths,1.0,150.0
+Private room,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1.5 baths,1.0,620.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,2.0,850.0
+Private room,1 shared bath,1.0,130.0
+Entire home/apt,1 bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,130.0
+Shared room,2 shared baths,1.0,180.0
+Private room,1 private bath,2.0,900.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,850.0
+Private room,3 baths,1.0,217.0
+Private room,2 shared baths,1.0,130.0
+Private room,2 shared baths,1.0,180.0
+Entire home/apt,1 bath,1.0,130.0
+Private room,2 shared baths,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 private bath,6.0,620.0
+Entire home/apt,1 bath,1.0,614.0
+Private room,1 private bath,1.0,694.0
+Private room,1 bath,1.0,200.0
+Private room,1 shared bath,1.0,135.0
+Private room,1 bath,1.0,135.0
+Private room,1 shared bath,1.0,135.0
+Private room,1 shared bath,1.0,135.0
+Private room,1 bath,1.0,135.0
+Private room,1 bath,1.0,135.0
+Private room,1 bath,1.0,219.0
+Private room,1 shared bath,1.0,160.0
+Private room,1 bath,1.0,486.0
+Private room,1 bath,1.0,135.0
+Private room,1 bath,1.0,219.0
+Private room,1 shared bath,1.0,590.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,217.0
+Private room,1 shared bath,1.0,217.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,650.0
+Private room,1 private bath,1.0,850.0
+Shared room,3 shared baths,1.0,312.0
+Entire home/apt,1 bath,1.0,645.0
+Private room,1 bath,1.0,217.0
+Entire home/apt,2 baths,2.0,700.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,130.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,135.0
+Entire home/apt,1.5 baths,1.0,530.0
+Private room,1 private bath,1.0,297.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Shared room,3 shared baths,1.0,312.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 private bath,1.0,210.0
+Private room,1 bath,1.0,357.0
+Shared room,4 shared baths,1.0,315.0
+Private room,1 shared bath,1.0,750.0
+Shared room,3 shared baths,1.0,305.0
+Shared room,3 shared baths,1.0,292.0
+Private room,1 private bath,1.0,320.0
+Entire home/apt,1 bath,1.0,450.0
+Entire home/apt,1 bath,1.0,320.0
+Entire home/apt,1 bath,1.0,295.0
+Entire home/apt,1 bath,1.0,900.0
+Shared room,3 shared baths,1.0,259.0
+Private room,1 shared bath,1.0,800.0
+Private room,1 bath,1.0,300.0
+Private room,1 bath,1.0,320.0
+Private room,1 bath,1.0,490.0
+Private room,1 private bath,1.0,490.0
+Private room,1 private bath,1.0,617.0
+Private room,1 private bath,1.0,617.0
+Shared room,4 shared baths,1.0,168.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 shared bath,1.0,120.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,120.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,211.0
+Private room,1 shared bath,1.0,180.0
+Private room,1 private bath,1.0,250.0
+Private room,1 private bath,1.0,250.0
+Private room,1 private bath,1.0,300.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,400.0
+Shared room,4 shared baths,1.0,168.0
+Private room,1 shared bath,1.0,320.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Shared room,4 shared baths,1.0,168.0
+Private room,1 private bath,1.0,364.0
+Private room,1 private bath,1.0,516.0
+Private room,1 private bath,1.0,800.0
+Entire home/apt,1 bath,1.0,400.0
+Entire home/apt,1 bath,1.0,415.0
+Entire home/apt,1 bath,1.0,370.0
+Entire home/apt,1 bath,1.0,415.0
+Entire home/apt,1 bath,1.0,370.0
+Entire home/apt,1 bath,1.0,370.0
+Entire home/apt,1 bath,1.0,400.0
+Entire home/apt,1 bath,1.0,310.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,350.0
+Private room,1 bath,1.0,580.0
+Private room,1 bath,1.0,455.0
+Shared room,0 shared baths,1.0,220.0
+Shared room,0 shared baths,1.0,230.0
+Private room,1 shared bath,1.0,400.0
+Entire home/apt,1 bath,1.0,707.0
+Entire home/apt,1 bath,1.0,800.0
+Entire home/apt,1 bath,2.0,500.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 private bath,1.0,880.0
+Entire home/apt,1 bath,1.0,773.0
+Entire home/apt,1 bath,1.0,893.0
+Entire home/apt,1 bath,1.0,684.0
+Private room,1 private bath,1.0,638.0
+Private room,1 shared bath,1.0,130.0
+Private room,1.5 baths,2.0,800.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 private bath,1.0,450.0
+Entire home/apt,1 bath,2.0,900.0
+Private room,1 private bath,1.0,295.0
+Private room,1 private bath,1.0,395.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,595.0
+Private room,1 private bath,1.0,800.0
+Private room,1 private bath,1.0,700.0
+Entire home/apt,4 baths,4.0,395.0
+Private room,1 private bath,1.0,768.0
+Private room,1 private bath,1.0,880.0
+Private room,1 private bath,1.0,880.0
+Private room,1 private bath,1.0,340.0
+Private room,1 private bath,1.0,510.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1 bath,1.0,801.0
+Entire home/apt,1 bath,2.0,680.0
+Private room,1 private bath,1.0,900.0
+Private room,2 shared baths,1.0,424.0
+Entire home/apt,1.5 baths,1.0,944.0
+Entire home/apt,1 bath,1.0,987.0
+Entire home/apt,1 bath,1.0,867.0
+Entire home/apt,1 bath,1.0,880.0
+Private room,1 private bath,1.0,388.0
+Private room,1 shared bath,1.0,180.0
+Entire home/apt,1 bath,1.0,490.0
+Entire home/apt,1 bath,3.0,700.0
+Entire home/apt,1 bath,2.0,400.0
+Private room,1 private bath,1.0,220.0
+Entire home/apt,1 bath,1.0,590.0
+Private room,1 private bath,1.0,390.0
+Private room,1 private bath,1.0,590.0
+Entire home/apt,1 bath,1.0,427.0
+Entire home/apt,1 bath,1.0,430.0
+Private room,1 private bath,1.0,255.0
+Private room,1 private bath,1.0,350.0
+Private room,1.5 shared baths,4.0,140.0
+Private room,1 shared bath,1.0,250.0
+Private room,1 private bath,1.0,350.0
+Private room,1 private bath,1.0,350.0
+Entire home/apt,2 baths,3.0,780.0
+Private room,1 private bath,1.0,524.0
+Private room,1 private bath,1.0,582.0
+Entire home/apt,1 bath,1.0,558.0
+Entire home/apt,1 bath,1.0,620.0
+Entire home/apt,1 bath,1.0,726.0
+Private room,1 bath,1.0,744.0
+Private room,1 private bath,1.0,141.0
+Private room,1 shared bath,1.0,393.0
+Private room,8 baths,8.0,700.0
+Entire home/apt,1 bath,1.0,330.0
+Entire home/apt,1 bath,1.0,330.0
+Shared room,Shared half-bath,1.0,237.0
+Private room,1 private bath,1.0,499.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 private bath,1.0,543.0
+Private room,1 private bath,1.0,168.0
+Private room,1.5 baths,1.0,350.0
+Private room,1.5 shared baths,1.0,220.0
+Private room,1 private bath,1.0,338.0
+Shared room,2 shared baths,1.0,500.0
+Entire home/apt,1 bath,2.0,945.0
+Entire home/apt,1.5 baths,1.0,569.0
+Entire home/apt,1 bath,1.0,459.0
+Entire home/apt,1 bath,1.0,459.0
+Entire home/apt,1 bath,1.0,450.0
+Private room,1 private bath,1.0,299.0
+Private room,1 private bath,1.0,232.0
+Entire home/apt,2 baths,2.0,670.0
+Private room,1 private bath,1.0,168.0
+Shared room,1 shared bath,1.0,250.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,2.0,700.0
+Private room,1 private bath,1.0,479.0
+Private room,0 shared baths,1.0,357.0
+Private room,1 private bath,1.0,525.0
+Entire home/apt,1 bath,1.0,874.0
+Private room,1 private bath,1.0,799.0
+Private room,1 private bath,1.0,507.0
+Entire home/apt,2 baths,3.0,900.0
+Entire home/apt,1 bath,1.0,475.0
+Private room,1 private bath,1.0,368.0
+Entire home/apt,1.5 baths,1.0,362.0
+Shared room,3 shared baths,1.0,120.0
+Private room,1 private bath,1.0,228.0
+Entire home/apt,1 bath,1.0,489.0
+Entire home/apt,1 bath,1.0,459.0
+Entire home/apt,1 bath,1.0,489.0
+Entire home/apt,1 bath,2.0,640.0
+Entire home/apt,1 bath,2.0,650.0
+Entire home/apt,1 bath,1.0,750.0
+Entire home/apt,1 bath,1.0,449.0
+Entire home/apt,1 bath,1.0,400.0
+Entire home/apt,1.5 baths,1.0,570.0
+Entire home/apt,1 bath,1.0,608.0
+Private room,1 shared bath,1.0,486.0
+Private room,1 shared bath,1.0,220.0
+Private room,1 private bath,1.0,260.0
+Private room,1 shared bath,1.0,190.0
+Private room,1 shared bath,1.0,200.0
+Private room,1 shared bath,1.0,220.0
+Private room,1 shared bath,1.0,220.0
+Private room,1 private bath,1.0,260.0
+Private room,1 private bath,1.0,460.0
+Entire home/apt,1 bath,1.0,670.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 private bath,1.0,299.0
+Private room,1 shared bath,1.0,150.0
+Private room,1.5 baths,1.0,300.0
+Entire home/apt,1 bath,1.0,489.0
+Private room,1 private bath,1.0,299.0
+Private room,1 private bath,1.0,299.0
+Entire home/apt,1 bath,1.0,575.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,10 baths,10.0,400.0
+Entire home/apt,2 baths,3.0,900.0
+Private room,1 private bath,1.0,288.0
+Private room,1 private bath,1.0,298.0
+Private room,1 private bath,1.0,488.0
+Shared room,1 shared bath,1.0,130.0
+Private room,1 private bath,1.0,384.0
+Entire home/apt,1.5 baths,1.0,988.0
+Private room,1 private bath,1.0,268.0
+Entire home/apt,1 bath,1.0,209.0
+Private room,1 shared bath,1.0,288.0
+Entire home/apt,1 bath,1.0,270.0
+Entire home/apt,1 bath,1.0,214.0
+Entire home/apt,1 bath,1.0,160.0
+Entire home/apt,1 bath,1.0,241.0
+Entire home/apt,1 bath,1.0,241.0
+Entire home/apt,1 bath,1.0,204.0
+Entire home/apt,1 bath,1.0,325.0
+Entire home/apt,1 bath,1.0,973.0
+Entire home/apt,1 bath,1.0,763.0
+Entire home/apt,1 bath,1.0,230.0
+Shared room,1.5 shared baths,1.0,250.0
+Private room,1 private bath,1.0,504.0
+Private room,1 private bath,1.0,680.0
+Private room,1 private bath,1.0,474.0
+Private room,1 private bath,1.0,650.0
+Entire home/apt,1 bath,1.0,802.0
+Entire home/apt,1 bath,2.0,549.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1 bath,1.0,790.0
+Entire home/apt,1 bath,1.0,254.0
+Entire home/apt,1 bath,1.0,774.0
+Entire home/apt,1 bath,1.0,200.0
+Entire home/apt,1 bath,1.0,293.0
+Entire home/apt,1 bath,1.0,396.0
+Private room,Private half-bath,1.0,254.0
+Entire home/apt,1 bath,1.0,585.0
+Private room,2 shared baths,1.0,357.0
+Entire home/apt,2 baths,2.0,650.0
+Shared room,4 shared baths,1.0,284.0
+Private room,1 private bath,1.0,626.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,Private half-bath,1.0,607.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,1.0,972.0
+Private room,1 shared bath,1.0,395.0
+Private room,1 private bath,1.0,300.0
+Private room,1 bath,2.0,700.0
+Private room,1 private bath,1.0,582.0
+Private room,1 private bath,1.0,480.0
+Private room,0 shared baths,1.0,386.0
+Entire home/apt,1 bath,1.0,880.0
+Private room,1 shared bath,2.0,270.0
+Entire home/apt,1 bath,2.0,790.0
+Entire home/apt,1 bath,1.0,921.0
+Entire home/apt,1 bath,1.0,905.0
+Entire home/apt,1.5 baths,1.0,638.0
+Entire home/apt,1 bath,2.0,629.0
+Entire home/apt,1.5 baths,1.0,650.0
+Private room,Private half-bath,1.0,712.0
+Private room,1 bath,1.0,460.0
+Entire home/apt,2 baths,2.0,780.0
+Private room,1 bath,1.0,664.0
+Private room,1 bath,1.0,797.0
+Entire home/apt,1 bath,2.0,833.0
+Entire home/apt,1 bath,1.0,920.0
+Private room,1 private bath,1.0,670.0
+Private room,1 private bath,1.0,726.0
+Private room,1 private bath,1.0,837.0
+Private room,1 private bath,1.0,558.0
+Private room,1 private bath,1.0,782.0
+Private room,1 private bath,1.0,726.0
+Private room,1 private bath,1.0,536.0
+Private room,1 private bath,1.0,726.0
+Private room,1 private bath,1.0,726.0
+Entire home/apt,1 bath,1.0,250.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,800.0
+Entire home/apt,1 bath,2.0,400.0
+Entire home/apt,1 bath,1.0,850.0
+Entire home/apt,1 bath,1.0,950.0
+Entire home/apt,1 bath,1.0,600.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,2.0,500.0
+Entire home/apt,1 bath,1.0,350.0
+Shared room,1.5 shared baths,1.0,318.0
+Entire home/apt,1 bath,1.0,280.0
+Entire home/apt,1 bath,1.0,250.0
+Entire home/apt,1 bath,1.0,906.0
+Entire home/apt,1 bath,1.0,816.0
+Private room,1 shared bath,1.0,288.0
+Entire home/apt,1 bath,1.0,950.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,569.0
+Entire home/apt,1.5 baths,2.0,470.0
+Private room,1 private bath,1.0,407.0
+Entire home/apt,1.5 baths,2.0,929.0
+Entire home/apt,2 baths,2.0,999.0
+Private room,,1.0,352.0
+Private room,1 shared bath,1.0,400.0
+Private room,1 private bath,1.0,268.0
+Private room,1 private bath,1.0,368.0
+Private room,1 private bath,1.0,228.0
+Private room,1 private bath,1.0,138.0
+Private room,2 shared baths,1.0,420.0
+Entire home/apt,1.5 baths,1.0,394.0
+Private room,,1.0,471.0
+Private room,1 shared bath,1.0,326.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,1 private bath,1.0,238.0
+Entire home/apt,1.5 baths,1.0,564.0
+Entire home/apt,1 bath,2.0,811.0
+Private room,1 shared bath,1.0,166.0
+Private room,1 shared bath,1.0,167.0
+Private room,1 shared bath,1.0,166.0
+Private room,1 shared bath,1.0,166.0
+Entire home/apt,1 bath,1.0,300.0
+Private room,1 private bath,1.0,268.0
+Private room,1 private bath,1.0,368.0
+Private room,1 private bath,1.0,268.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 private bath,1.0,149.0
+Private room,1 private bath,1.0,258.0
+Private room,1 private bath,1.0,298.0
+Private room,1 private bath,1.0,268.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1 bath,2.0,814.0
+Entire home/apt,1 bath,2.0,920.0
+Entire home/apt,1 bath,1.0,821.0
+Private room,1.5 baths,1.0,230.0
+Private room,1 private bath,1.0,260.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,1 shared bath,1.0,304.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1.5 baths,1.0,168.0
+Private room,1 private bath,1.0,506.0
+Private room,1 private bath,1.0,158.0
+Private room,1 private bath,1.0,188.0
+Private room,1 private bath,1.0,368.0
+Private room,1 private bath,1.0,365.0
+Private room,1 shared bath,1.0,200.0
+Private room,1 bath,1.0,200.0
+Shared room,,1.0,180.0
+Entire home/apt,1 bath,2.0,800.0
+Private room,1 private bath,1.0,154.0
+Private room,1 private bath,1.0,338.0
+Private room,1 private bath,1.0,248.0
+Private room,1.5 baths,2.0,800.0
+Entire home/apt,1 bath,1.0,320.0
+Entire home/apt,1 bath,1.0,328.0
+Private room,1 private bath,1.0,299.0
+Entire home/apt,1 bath,1.0,246.0
+Private room,1 shared bath,1.0,240.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,1.0,420.0
+Private room,5.5 baths,8.0,771.0
+Private room,1 private bath,1.0,331.0
+Entire home/apt,1 bath,1.0,675.0
+Entire home/apt,1 bath,1.0,300.0
+Entire home/apt,1 bath,1.0,451.0
+Entire home/apt,1.5 baths,1.0,950.0
+Private room,1 private bath,1.0,329.0
+Entire home/apt,1 bath,1.0,836.0
+Entire home/apt,1 bath,1.0,750.0
+Entire home/apt,1 bath,2.0,800.0
+Entire home/apt,1 bath,1.0,610.0
+Entire home/apt,1 bath,3.0,955.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 private bath,1.0,404.0
+Private room,1 shared bath,1.0,230.0
+Private room,1 private bath,1.0,499.0
+Entire home/apt,2 baths,3.0,900.0
+Private room,1 private bath,1.0,397.0
+Private room,1 private bath,1.0,329.0
+Entire home/apt,2 baths,1.0,967.0
+Entire home/apt,1 bath,1.0,464.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 private bath,1.0,280.0
+Entire home/apt,1 bath,1.0,724.0
+Entire home/apt,1.5 baths,1.0,300.0
+Entire home/apt,1 bath,1.0,783.0
+Private room,1 shared bath,1.0,250.0
+Entire home/apt,2 baths,2.0,900.0
+Entire home/apt,1 bath,1.0,914.0
+Entire home/apt,1 bath,1.0,600.0
+Entire home/apt,1 bath,2.0,590.0
+Entire home/apt,2 baths,2.0,895.0
+Private room,1.5 shared baths,1.0,500.0
+Private room,1 private bath,1.0,950.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,1.0,476.0
+Private room,1 private bath,1.0,238.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,980.0
+Private room,1 private bath,1.0,274.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 private bath,1.0,288.0
+Entire home/apt,1.5 baths,2.0,680.0
+Private room,1 private bath,1.0,320.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1.5 shared baths,1.0,350.0
+Private room,1 private bath,1.0,300.0
+Private room,1 private bath,1.0,260.0
+Private room,1 private bath,1.0,280.0
+Private room,1 private bath,1.0,230.0
+Private room,1 private bath,1.0,380.0
+Shared room,,1.0,150.0
+Private room,1 shared bath,1.0,198.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,1.0,240.0
+Private room,1 bath,1.0,364.0
+Private room,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,480.0
+Entire home/apt,1 bath,2.0,948.0
+Private room,1 shared bath,1.0,250.0
+Entire home/apt,1.5 baths,2.0,222.0
+Entire home/apt,1 bath,1.0,270.0
+Entire home/apt,1.5 baths,2.0,900.0
+Private room,1 private bath,1.0,172.0
+Private room,1 shared bath,1.0,140.0
+Entire home/apt,1 bath,3.0,920.0
+Entire home/apt,1 bath,1.0,530.0
+Entire home/apt,1 bath,1.0,700.0
+Private room,1 shared bath,1.0,360.0
+Private room,1 private bath,1.0,300.0
+Shared room,1 shared bath,1.0,240.0
+Entire home/apt,1 bath,2.0,814.0
+Private room,1 private bath,1.0,529.0
+Entire home/apt,3 baths,4.0,720.0
+Entire home/apt,1.5 baths,2.0,980.0
+Private room,1 shared bath,1.0,410.0
+Entire home/apt,1 bath,2.0,600.0
+Entire home/apt,1.5 baths,1.0,779.0
+Entire home/apt,1 bath,2.0,550.0
+Private room,1 shared bath,1.0,220.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,2.0,740.0
+Entire home/apt,1 bath,1.0,850.0
+Shared room,2 shared baths,1.0,224.0
+Private room,1 private bath,1.0,507.0
+Private room,1 bath,1.0,429.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1.5 baths,1.0,850.0
+Entire home/apt,1 bath,1.0,295.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,380.0
+Private room,1 private bath,1.0,269.0
+Entire home/apt,1 bath,1.0,390.0
+Private room,1.5 shared baths,1.0,320.0
+Entire home/apt,1 bath,1.0,400.0
+Private room,1 bath,1.0,507.0
+Entire home/apt,1 bath,1.0,267.0
+Entire home/apt,1.5 baths,1.0,994.0
+Entire home/apt,1 bath,2.0,480.0
+Private room,1.5 baths,1.0,980.0
+Private room,1.5 baths,1.0,980.0
+Entire home/apt,2 baths,2.0,900.0
+Private room,1 private bath,1.0,980.0
+Entire home/apt,1 bath,2.0,787.0
+Entire home/apt,1 bath,2.0,900.0
+Private room,1 private bath,1.0,380.0
+Entire home/apt,1 bath,1.0,836.0
+Private room,1 private bath,1.0,342.0
+Entire home/apt,1 bath,2.0,599.0
+Entire home/apt,2 baths,2.0,850.0
+Private room,5.5 baths,5.0,624.0
+Entire home/apt,1 bath,1.0,485.0
+Entire home/apt,2 baths,1.0,821.0
+Entire home/apt,1 bath,1.0,550.0
+Entire home/apt,1 bath,1.0,650.0
+Private room,1 private bath,1.0,250.0
+Entire home/apt,1 bath,1.0,350.0
+Private room,1.5 baths,1.0,220.0
+Private room,1 private bath,1.0,293.0
+Entire home/apt,1 bath,3.0,580.0
+Private room,1 private bath,1.0,280.0
+Private room,1 private bath,1.0,343.0
+Entire home/apt,1 bath,2.0,800.0
+Entire home/apt,1 bath,2.0,936.0
+Entire home/apt,1 bath,1.0,580.0
+Private room,1 shared bath,1.0,533.0
+Entire home/apt,1 bath,3.0,741.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1.5 shared baths,1.0,407.0
+Entire home/apt,1 bath,1.0,850.0
+Private room,1 shared bath,1.0,275.0
+Private room,1 shared bath,1.0,238.0
+Entire home/apt,1 bath,1.0,954.0
+Entire home/apt,1 bath,2.0,649.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1 bath,1.0,489.0
+Entire home/apt,1 bath,3.0,988.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,977.0
+Entire home/apt,1 bath,2.0,700.0
+Private room,1 private bath,1.0,368.0
+Entire home/apt,1 bath,2.0,600.0
+Entire home/apt,2 baths,2.0,688.0
+Entire home/apt,1 bath,1.0,980.0
+Entire home/apt,1 bath,1.0,470.0
+Entire home/apt,1 bath,1.0,543.0
+Private room,2 baths,2.0,423.0
+Entire home/apt,1 bath,3.0,835.0
+Entire home/apt,1 bath,1.0,475.0
+Shared room,1 shared bath,1.0,300.0
+Entire home/apt,1 bath,1.0,630.0
+Entire home/apt,1 bath,1.0,620.0
+Private room,2 shared baths,1.0,160.0
+Entire home/apt,1 bath,1.0,550.0
+Private room,1 bath,1.0,500.0
+Private room,2 shared baths,1.0,198.0
+Private room,1.5 shared baths,2.0,500.0
+Entire home/apt,2 baths,3.0,900.0
+Entire home/apt,2 baths,3.0,800.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,2 baths,3.0,900.0
+Entire home/apt,2 baths,3.0,900.0
+Shared room,2 shared baths,1.0,186.0
+Private room,1.5 shared baths,1.0,350.0
+Entire home/apt,1 bath,2.0,800.0
+Entire home/apt,1 bath,3.0,750.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,150.0
+Private room,1 private bath,1.0,250.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,1 private bath,1.0,210.0
+Private room,1 shared bath,1.0,295.0
+Entire home/apt,1 bath,1.0,320.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,280.0
+Entire home/apt,1 bath,1.0,619.0
+Private room,1 private bath,1.0,330.0
+Entire home/apt,1 bath,2.0,750.0
+Entire home/apt,2 baths,3.0,900.0
+Entire home/apt,1 bath,3.0,700.0
+Private room,1 shared bath,1.0,750.0
+Entire home/apt,1 bath,1.0,786.0
+Entire home/apt,1 bath,2.0,880.0
+Entire home/apt,1 bath,1.0,790.0
+Shared room,1.5 shared baths,1.0,230.0
+Private room,1 private bath,1.0,756.0
+Private room,1 private bath,1.0,677.0
+Private room,1 private bath,1.0,469.0
+Private room,1 shared bath,1.0,238.0
+Entire home/apt,1 bath,1.0,483.0
+Private room,1 shared bath,1.0,537.0
+Entire home/apt,1.5 baths,1.0,950.0
+Entire home/apt,1 bath,2.0,507.0
+Shared room,1 shared bath,1.0,220.0
+Private room,1 private bath,1.0,300.0
+Shared room,1 shared bath,1.0,500.0
+Private room,1 private bath,1.0,350.0
+Entire home/apt,1 bath,1.0,459.0
+Private room,1 private bath,2.0,546.0
+Entire home/apt,1 bath,1.0,268.0
+Private room,1 shared bath,1.0,230.0
+Entire home/apt,1 bath,2.0,800.0
+Entire home/apt,1.5 baths,1.0,924.0
+Private room,1 shared bath,1.0,250.0
+Private room,1 private bath,1.0,423.0
+Private room,1 shared bath,1.0,350.0
+Private room,1 private bath,1.0,423.0
+Private room,1 shared bath,1.0,177.0
+Entire home/apt,1 bath,1.0,591.0
+Entire home/apt,1 bath,1.0,679.0
+Private room,1 private bath,1.0,463.0
+Entire home/apt,1 bath,1.0,698.0
+Private room,1 private bath,1.0,423.0
+Private room,1 private bath,1.0,506.0
+Private room,1 private bath,1.0,423.0
+Private room,1 private bath,1.0,321.0
+Private room,2 shared baths,4.0,320.0
+Entire home/apt,1 bath,1.0,799.0
+Entire home/apt,1 bath,1.0,500.0
+Entire home/apt,1 bath,1.0,187.0
+Entire home/apt,1 bath,1.0,580.0
+Entire home/apt,1 bath,1.0,825.0
+Private room,1 private bath,1.0,370.0
+Private room,2 shared baths,1.0,300.0
+Private room,1 shared bath,1.0,320.0
+Private room,1 private bath,1.0,346.0
+Private room,1 private bath,1.0,329.0
+Entire home/apt,1.5 baths,1.0,428.0
+Entire home/apt,1.5 baths,2.0,764.0
+Private room,1 private bath,1.0,800.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,450.0
+Entire home/apt,1 bath,1.0,880.0
+Entire home/apt,1 bath,1.0,780.0
+Private room,1 shared bath,1.0,500.0
+Private room,1.5 shared baths,1.0,320.0
+Private room,1 private bath,1.0,250.0
+Private room,1 private bath,1.0,311.0
+Entire home/apt,2 baths,1.0,450.0
+Entire home/apt,1 bath,3.0,650.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1 bath,1.0,492.0
+Entire home/apt,1 bath,2.0,700.0
+Private room,1 private bath,1.0,236.0
+Private room,1 private bath,1.0,493.0
+Private room,1 private bath,1.0,950.0
+Private room,1 private bath,1.0,950.0
+Private room,1 private bath,1.0,423.0
+Private room,1 private bath,1.0,529.0
+Entire home/apt,1 bath,2.0,560.0
+Private room,1.5 shared baths,3.0,230.0
+Private room,1 bath,1.0,400.0
+Private room,1 private bath,1.0,357.0
+Private room,1 private bath,1.0,493.0
+Shared room,3 shared baths,1.0,300.0
+Private room,1 private bath,1.0,393.0
+Private room,1 private bath,1.0,423.0
+Private room,16.5 baths,11.0,400.0
+Private room,1 shared bath,1.0,517.0
+Private room,1 private bath,1.0,700.0
+Private room,1.5 shared baths,1.0,609.0
+Private room,1 private bath,1.0,629.0
+Private room,1 private bath,1.0,381.0
+Private room,Shared half-bath,1.0,370.0
+Private room,1 private bath,1.0,368.0
+Private room,1 private bath,1.0,593.0
+Private room,1 private bath,1.0,700.0
+Private room,1 private bath,1.0,408.0
+Private room,1 private bath,1.0,419.0
+Private room,1 private bath,1.0,463.0
+Entire home/apt,1 bath,1.0,988.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1 bath,1.0,243.0
+Entire home/apt,1 bath,2.0,690.0
+Shared room,2 shared baths,1.0,293.0
+Private room,1 shared bath,1.0,400.0
+Entire home/apt,1 bath,1.0,250.0
+Private room,1 shared bath,1.0,400.0
+Shared room,2 shared baths,1.0,120.0
+Private room,1 private bath,1.0,320.0
+Private room,1 private bath,1.0,401.0
+Entire home/apt,1 bath,1.0,885.0
+Private room,1 shared bath,1.0,388.0
+Private room,1 private bath,1.0,312.0
+Private room,1 private bath,1.0,549.0
+Private room,4 shared baths,4.0,800.0
+Private room,1 private bath,1.0,329.0
+Private room,1 private bath,1.0,605.0
+Private room,1 private bath,1.0,393.0
+Private room,1 private bath,1.0,462.0
+Private room,1.5 shared baths,1.0,986.0
+Private room,1 private bath,1.0,500.0
+Entire home/apt,1.5 baths,1.0,728.0
+Private room,1 private bath,1.0,480.0
+Private room,1 private bath,1.0,264.0
+Private room,1 shared bath,1.0,230.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,379.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1 bath,1.0,842.0
+Entire home/apt,1 bath,1.0,600.0
+Private room,1 private bath,1.0,829.0
+Private room,1 private bath,1.0,328.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,2 baths,2.0,850.0
+Private room,1.5 shared baths,1.0,365.0
+Private room,2.5 baths,1.0,450.0
+Private room,1.5 shared baths,1.0,335.0
+Private room,1 private bath,1.0,700.0
+Private room,1 private bath,1.0,350.0
+Private room,1 shared bath,1.0,329.0
+Private room,1 private bath,1.0,687.0
+Private room,1 private bath,1.0,749.0
+Shared room,1 shared bath,1.0,226.0
+Private room,1 private bath,1.0,585.0
+Private room,1 shared bath,1.0,329.0
+Entire home/apt,1 bath,1.0,780.0
+Entire home/apt,1 bath,2.0,677.0
+Private room,1 private bath,1.0,749.0
+Entire home/apt,1.5 baths,2.0,600.0
+Shared room,4 shared baths,1.0,211.0
+Private room,1.5 baths,1.0,658.0
+Private room,1 private bath,1.0,507.0
+Private room,1 shared bath,1.0,370.0
+Private room,1 private bath,1.0,280.0
+Private room,1.5 baths,1.0,664.0
+Private room,6 baths,6.0,898.0
+Private room,1 private bath,1.0,539.0
+Private room,1 private bath,1.0,350.0
+Entire home/apt,1 bath,2.0,750.0
+Private room,1 shared bath,2.0,389.0
+Entire home/apt,1 bath,1.0,990.0
+Private room,1 private bath,1.0,794.0
+Private room,1 shared bath,1.0,597.0
+Private room,1 private bath,1.0,300.0
+Entire home/apt,1 bath,1.0,480.0
+Entire home/apt,1 bath,1.0,740.0
+Private room,1 private bath,1.0,756.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,1 bath,1.0,756.0
+Private room,1 bath,1.0,677.0
+Entire home/apt,2 baths,3.0,821.0
+Private room,1 private bath,1.0,250.0
+Private room,1 private bath,1.0,756.0
+Private room,1 private bath,1.0,756.0
+Private room,1 bath,1.0,677.0
+Private room,1 private bath,1.0,677.0
+Shared room,1 shared bath,1.0,900.0
+Private room,1 private bath,1.0,497.0
+Entire home/apt,1 bath,2.0,765.0
+Private room,1 private bath,1.0,400.0
+Private room,1 private bath,1.0,547.0
+Private room,1 private bath,1.0,994.0
+Entire home/apt,1 bath,1.0,479.0
+Private room,1 shared bath,1.0,766.0
+Entire home/apt,1 bath,1.0,971.0
+Private room,1 private bath,1.0,314.0
+Private room,1 shared bath,1.0,280.0
+Private room,1 private bath,1.0,250.0
+Entire home/apt,1 bath,1.0,500.0
+Private room,1 private bath,1.0,756.0
+Private room,1 shared bath,1.0,290.0
+Private room,1 private bath,1.0,756.0
+Private room,1 private bath,1.0,677.0
+Private room,1 private bath,1.0,677.0
+Private room,1 private bath,1.0,677.0
+Private room,Private half-bath,1.0,809.0
+Private room,1 shared bath,1.0,250.0
+Entire home/apt,1 bath,2.0,671.0
+Private room,1.5 shared baths,1.0,330.0
+Entire home/apt,1 bath,1.0,486.0
+Private room,4 shared baths,10.0,250.0
+Private room,1 shared bath,2.0,520.0
+Private room,1 shared bath,1.0,300.0
+Entire home/apt,1 bath,1.0,995.0
+Private room,1 private bath,1.0,140.0
+Private room,1 bath,1.0,450.0
+Shared room,2 shared baths,1.0,498.0
+Entire home/apt,1 bath,3.0,850.0
+Private room,1 shared bath,1.0,342.0
+Entire home/apt,1 bath,3.0,590.0
+Entire home/apt,1 bath,1.0,671.0
+Private room,1 shared bath,1.0,524.0
+Entire home/apt,1 bath,1.0,479.0
+Entire home/apt,1.5 baths,2.0,700.0
+Entire home/apt,1 bath,2.0,649.0
+Entire home/apt,1 bath,1.0,447.0
+Entire home/apt,1 bath,1.0,900.0
+Private room,1 private bath,1.0,500.0
+Private room,1 private bath,1.0,388.0
+Entire home/apt,2 baths,2.0,600.0
+Private room,1 private bath,1.0,450.0
+Private room,1 private bath,1.0,500.0
+Private room,1 shared bath,1.0,386.0
+Private room,1.5 baths,1.0,400.0
+Entire home/apt,1 bath,2.0,795.0
+Entire home/apt,1 bath,1.0,988.0
+Entire home/apt,2 baths,3.0,890.0
+Entire home/apt,1 bath,1.0,629.0
+Entire home/apt,1 bath,1.0,900.0
+Entire home/apt,1 bath,2.0,400.0
+Private room,1 private bath,1.0,414.0
+Private room,1 shared bath,1.0,299.0
+Entire home/apt,1 bath,2.0,560.0
+Shared room,2 shared baths,1.0,498.0
+Entire home/apt,1 bath,2.0,869.0
+Entire home/apt,3 baths,4.0,580.0
+Entire home/apt,1 bath,1.0,650.0
+Private room,1 shared bath,1.0,450.0
+Private room,1 shared bath,2.0,320.0
+Entire home/apt,1 bath,1.0,950.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,297.0
+Private room,1 private bath,1.0,500.0
+Shared room,1 shared bath,1.0,279.0
+Entire home/apt,1 bath,2.0,700.0
+Private room,1 shared bath,2.0,216.0
+Entire home/apt,1 bath,1.0,730.0
+Entire home/apt,1 bath,1.0,916.0
+Private room,1 private bath,1.0,245.0
+Private room,1 private bath,1.0,677.0
+Private room,1 bath,1.0,677.0
+Private room,1 private bath,1.0,672.0
+Private room,1 private bath,1.0,672.0
+Private room,1 private bath,1.0,672.0
+Private room,1 bath,1.0,579.0
+Entire home/apt,1 bath,1.0,880.0
+Private room,1 private bath,1.0,611.0
+Entire home/apt,1 bath,1.0,400.0
+Private room,1 private bath,1.0,400.0
+Entire home/apt,1 bath,2.0,814.0
+Entire home/apt,1 bath,1.0,740.0
+Private room,1 private bath,1.0,429.0
+Shared room,3 shared baths,1.0,352.0
+Entire home/apt,1 bath,3.0,664.0
+Entire home/apt,1 bath,1.0,800.0
+Private room,2 shared baths,1.0,430.0
+Private room,2 shared baths,1.0,378.0
+Private room,1 private bath,1.0,350.0
+Private room,1.5 shared baths,1.0,400.0
+Private room,1.5 baths,1.0,517.0
+Entire home/apt,1 bath,2.0,666.0
+Private room,1 private bath,1.0,380.0
+Private room,1 private bath,1.0,374.0
+Entire home/apt,1 bath,1.0,504.0
+Entire home/apt,1 bath,1.0,782.0
+Shared room,1 shared bath,1.0,319.0
+Private room,1 shared bath,1.0,406.0
+Private room,1 shared bath,1.0,378.0
+Private room,1 shared bath,1.0,447.0
+Entire home/apt,1 bath,1.0,729.0
+Shared room,1 shared bath,1.0,268.0
+Private room,1 shared bath,1.0,395.0
+Private room,1 shared bath,1.0,395.0
+Private room,1 shared bath,1.0,378.0
+Entire home/apt,1 bath,1.0,348.0
+Private room,1 shared bath,1.0,460.0
+Entire home/apt,1 bath,1.0,827.0
+Entire home/apt,1 bath,2.0,998.0
+Entire home/apt,1 bath,1.0,220.0
+Private room,1 private bath,1.0,547.0
+Shared room,1 shared bath,1.0,150.0
+Entire home/apt,1 bath,1.0,591.0
+Private room,1 private bath,1.0,672.0
+Private room,1 private bath,1.0,672.0
+Private room,1 private bath,1.0,677.0
+Private room,1 private bath,1.0,756.0
+Entire home/apt,1 bath,1.0,650.0
+Entire home/apt,1 bath,1.0,700.0
+Entire home/apt,1 bath,1.0,680.0
+Entire home/apt,1 bath,1.0,783.0
+Entire home/apt,1 bath,1.0,600.0
+Entire home/apt,1 bath,1.0,327.0
+Entire home/apt,1 bath,2.0,974.0
+Entire home/apt,1 bath,2.0,521.0
+Entire home/apt,1 bath,1.0,347.0
+Entire home/apt,1 bath,1.0,583.0
+Entire home/apt,1 bath,1.0,975.0
+Private room,1.5 baths,1.0,327.0
+Entire home/apt,1 bath,1.0,304.0
+Private room,1 private bath,1.0,205.0
+Shared room,1 shared bath,1.0,150.0
+Private room,1 shared bath,1.0,199.0
+Private room,1 private bath,1.0,390.0
+Private room,1 private bath,1.0,280.0
+Entire home/apt,1 bath,1.0,250.0
+Entire home/apt,1 bath,1.0,350.0
+Entire home/apt,1 bath,1.0,300.0
+Private room,1 shared bath,1.0,137.0
+Entire home/apt,1 bath,1.0,664.0
+Shared room,1 shared bath,1.0,226.0
+Entire home/apt,1 bath,1.0,250.0
+Private room,1 private bath,1.0,643.0
+Private room,1 private bath,1.0,643.0
+Private room,1 private bath,1.0,643.0
+Private room,1 private bath,1.0,643.0
+Private room,1 private bath,1.0,643.0
+Private room,1 bath,1.0,671.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,174.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,855.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,444.0
+Private room,1 bath,1.0,538.0
+Private room,1 bath,1.0,538.0
+Private room,1 bath,1.0,538.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,600.0
+Entire home/apt,1 bath,1.0,400.0
+Private room,1 shared bath,1.0,500.0
+Private room,1 shared bath,1.0,550.0
+Private room,1 shared bath,1.0,450.0
+Private room,1 bath,1.0,217.0
+Private room,1 shared bath,1.0,568.0
+Entire home/apt,1 bath,1.0,850.0
+Private room,1 shared bath,1.0,217.0
+Entire home/apt,1 bath,1.0,903.0
+Entire home/apt,1 bath,1.0,929.0
+Private room,1 shared bath,1.0,599.0
+Private room,1 shared bath,2.0,419.0
+Shared room,1 shared bath,1.0,300.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Entire home/apt,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,500.0
+Private room,1 shared bath,1.0,500.0
+Private room,1 private bath,1.0,400.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,217.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 bath,1.0,180.0
+Private room,1 private bath,1.0,600.0
+Private room,1 shared bath,1.0,850.0
+Entire home/apt,1 bath,1.0,380.0
+Hotel room,3 shared baths,1.0,224.0
+Private room,1 bath,1.0,180.0
+Shared room,3.5 shared baths,1.0,250.0
+Private room,1 private bath,1.0,350.0
+Entire home/apt,1 bath,2.0,616.0
+Entire home/apt,1 bath,2.0,799.0
+Entire home/apt,1 bath,1.0,750.0
+Entire home/apt,2 baths,3.0,958.0
+Entire home/apt,,1.0,993.0
+Entire home/apt,1 bath,1.0,950.0
+Entire home/apt,1 bath,1.0,880.0
+Entire home/apt,1 bath,1.0,724.0
+Entire home/apt,1 bath,1.0,885.0
+Entire home/apt,1 bath,1.0,880.0
+Shared room,3 shared baths,1.0,185.0
+Shared room,2 shared baths,1.0,185.0
+Shared room,3 shared baths,1.0,185.0
+Shared room,3 shared baths,1.0,185.0
+Hotel room,2.5 shared baths,1.0,263.0
+Private room,3 shared baths,1.0,280.0
+Private room,1 private bath,1.0,337.0
+Private room,1.5 baths,1.0,420.0
+Entire home/apt,1 bath,2.0,741.0
+Private room,1 private bath,1.0,396.0
+Private room,1 bath,1.0,291.0
+Entire home/apt,1 bath,1.0,380.0
+Private room,1 shared bath,1.0,304.0
+Entire home/apt,1 bath,1.0,487.0
+Private room,1 bath,1.0,217.0
+Entire home/apt,,1.0,180.0
+Private room,,1.0,180.0
+Private room,,1.0,140.0
+Private room,1 bath,1.0,180.0
