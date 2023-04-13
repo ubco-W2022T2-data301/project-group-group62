@@ -1,8 +1,8 @@
-def load_and_process(url_or_path_to_csv_file):
+def load_and_process(url):
 
     # Method Chain 1 
     df1 = (
-        pd.read_csv(url_or_path_to_csv_file)
+        pd.read_csv(url)
         .loc[:, ['neighbourhood_cleansed', 'review_scores_value', 'review_scores_location', 'review_scores_rating', 'review_scores_accuracy', 'review_scores_communication', 'price', 'accommodates']]
         .dropna(subset=['review_scores_value', 'review_scores_location', 'review_scores_rating', 'review_scores_accuracy', 'review_scores_communication'])
         .assign(average_rating=lambda x: x[['review_scores_value', 'review_scores_location', 'review_scores_rating', 'review_scores_accuracy', 'review_scores_communication']].mean(axis=1),
