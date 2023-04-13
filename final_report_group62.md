@@ -21,7 +21,16 @@ figure 1.2 shows the price variation for different type of vacation. The vacatio
 
  
 
-### Question 2
+### Question 2 If i can combine both location and price to compare it with the overall ratings for the rentals and see if theres any connections?
+
+![figure2.1](./images/price-per-person-byneig.png)
+In this figure, I caculate the price per person of each airbnb, and I also set a rating category base on their rating, the higher the rating is, the higher the rating category is. I calculate the price of each rating category base on neighbourhood. This can help us visualize how price affect the rating in the same neighbourhood.
+
+![figure2.2](./images/result_ximin.png)
+In this figure, I calculate the average rating category. I also make the price into levels, which makes it more clear to see how price level affect the overall rating.
+
+![figure2.3](./images/tableau_ximin.png)
+In this tableau, I also plot the rating on the map so that everyone is clearly to see that which airbnb has a high rating and which has a low rating
 
 
 ### Question 3
