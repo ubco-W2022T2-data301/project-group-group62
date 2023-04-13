@@ -5,22 +5,15 @@
 3,Shared room,8,1,180.0
 4,Private room,1,1,180.0
 5,Private room,1,1,180.0
-6,Private room,,1,180.0
 7,Private room,1,1,180.0
-8,Private room,,1,180.0
 9,Entire home/apt,1,1,702.0
 10,Private room,1,1,180.0
-11,Private room,,1,180.0
 12,Private room,1,1,180.0
 13,Private room,1,1,180.0
-14,Private room,,1,180.0
 15,Private room,1,1,180.0
 16,Private room,1,1,180.0
-17,Private room,,1,180.0
 18,Private room,1,1,217.0
-19,Private room,,1,180.0
 20,Private room,1,1,180.0
-21,Private room,,1,180.0
 22,Private room,1,1,620.0
 23,Entire home/apt,1,1,564.0
 24,Private room,1,1,750.0
@@ -2586,7 +2579,6 @@
 2584,Private room,1,1,407.0
 2585,Entire home/apt,15,2,929.0
 2586,Entire home/apt,2,2,999.0
-2587,Private room,,1,352.0
 2588,Private room,1,1,400.0
 2589,Private room,1,1,268.0
 2590,Private room,1,1,368.0
@@ -2594,7 +2586,6 @@
 2592,Private room,1,1,138.0
 2593,Private room,2,1,420.0
 2594,Entire home/apt,15,1,394.0
-2595,Private room,,1,471.0
 2596,Private room,1,1,326.0
 2597,Entire home/apt,1,1,550.0
 2598,Private room,1,1,238.0
@@ -2630,7 +2621,6 @@
 2628,Private room,1,1,365.0
 2629,Private room,1,1,200.0
 2630,Private room,1,1,200.0
-2631,Shared room,,1,180.0
 2632,Entire home/apt,1,2,800.0
 2633,Private room,1,1,154.0
 2634,Private room,1,1,338.0
@@ -2695,7 +2685,6 @@
 2693,Private room,1,1,280.0
 2694,Private room,1,1,230.0
 2695,Private room,1,1,380.0
-2696,Shared room,,1,150.0
 2697,Private room,1,1,198.0
 2698,Private room,1,1,400.0
 2699,Entire home/apt,1,1,240.0
@@ -3204,7 +3193,6 @@
 3202,Entire home/apt,1,2,799.0
 3203,Entire home/apt,1,1,750.0
 3204,Entire home/apt,2,3,958.0
-3205,Entire home/apt,,1,993.0
 3206,Entire home/apt,1,1,950.0
 3207,Entire home/apt,1,1,880.0
 3208,Entire home/apt,1,1,724.0
@@ -3225,7 +3213,4 @@
 3223,Private room,1,1,304.0
 3224,Entire home/apt,1,1,487.0
 3225,Private room,1,1,217.0
-3226,Entire home/apt,,1,180.0
-3227,Private room,,1,180.0
-3228,Private room,,1,140.0
 3229,Private room,1,1,180.0
