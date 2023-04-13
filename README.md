@@ -26,13 +26,11 @@ Our data is provided by Inside Airbnb, which is a mission driven project founded
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/General_price_for_accomodation_type.png" width="100px">
+<img src ="images/General_price_for_accomodation_type.png" width="300px">
 
-<img src ="images/result_ximin.png" width="100px">
-<img src ="images/tableau_ximin.png" width="100px">
+<img src ="images/result_ximin.png" width="300px">
+<img src ="images/tableau_ximin.png" width="300px">
 ## References
-
-{Add your stuff here}
 
 
 
